@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 def main():
     chunks = []
     chunks.extend(get_bio())
+    chunks.append('')
     chunks.extend(get_latest_posts())
 
     readme = Path(__file__).parent / "README.md"
@@ -29,7 +30,7 @@ def get_bio():
 
 
 def get_latest_posts():
-    chunks = ["## Latest blog posts"]
+    chunks = ["## Latest blog posts\n"]
     posts = feedparser.parse("https://adamj.eu/tech/atom.xml")["entries"][:5]
     chunks.extend(
         [
