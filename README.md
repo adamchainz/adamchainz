@@ -20,6 +20,7 @@
 
 ## Latest blog posts
 
+* [Better Python Decorators with wrapt](https://adamj.eu/tech/2020/07/02/better-python-decorators-with-wrapt/) (2020-07-02)
 * [Why does Python raise ModuleNotFoundError when modifying Django's INSTALLED_APPS?](https://adamj.eu/tech/2020/06/29/why-does-python-raise-modulenotfounderror-when-modifying-installed-apps/) (2020-06-29)
 * [How to add a .well-known URL to your Django site](https://adamj.eu/tech/2020/06/28/how-to-add-a-well-known-url-to-your-django-site/) (2020-06-28)
 * [How to Check if Python's Output Buffering Is Enabled](https://adamj.eu/tech/2020/06/26/how-to-check-if-pythons-output-buffering-is-enabled/) (2020-06-26)
