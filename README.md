@@ -20,8 +20,8 @@
 
 ## Latest blog posts
 
+* [Fun with GPT-3](https://adamj.eu/tech/2020/07/18/fun-with-gpt-3/) (2020-07-18)
 * [Disable Instrumentation Packages during Tests](https://adamj.eu/tech/2020/07/14/disable-instrumentation-packages-during-tests/) (2020-07-14)
 * [Announcing a Regional Discount for “Speed Up Your Django Tests”](https://adamj.eu/tech/2020/07/13/announcing-a-regional-discount-for-speed-up-your-django-tests/) (2020-07-13)
 * [Better Python Decorators with wrapt](https://adamj.eu/tech/2020/07/02/better-python-decorators-with-wrapt/) (2020-07-02)
 * [Why does Python raise ModuleNotFoundError when modifying Django's INSTALLED_APPS?](https://adamj.eu/tech/2020/06/29/why-does-python-raise-modulenotfounderror-when-modifying-installed-apps/) (2020-06-29)
-* [How to add a .well-known URL to your Django site](https://adamj.eu/tech/2020/06/28/how-to-add-a-well-known-url-to-your-django-site/) (2020-06-28)
