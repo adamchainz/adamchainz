@@ -20,8 +20,8 @@
 
 ## Latest blog posts
 
+* [A Guide to Python Lambda Functions](https://adamj.eu/tech/2020/08/10/a-guide-to-python-lambda-functions/) (2020-08-10)
 * [Backporting a Django ORM Feature with Database Instrumentation](https://adamj.eu/tech/2020/07/29/backporting-a-django-orm-feature-with-database-instrumentation/) (2020-07-29)
 * [How to Fix a PytestCollectionWarning about WebTest’s TestApp Class](https://adamj.eu/tech/2020/07/28/how-to-fix-a-pytest-collection-warning-about-web-tests-test-app-class/) (2020-07-28)
 * [How to Modernize a Django Index Definition with Zero Downtime](https://adamj.eu/tech/2020/07/27/how-to-modernize-your-django-index-definitions/) (2020-07-27)
 * [How to Make Always-Installed Django Database Instrumentation](https://adamj.eu/tech/2020/07/23/how-to-make-always-installed-django-database-instrumentation/) (2020-07-23)
-* [How to Use Django's Parallel Testing on macOS With Python 3.8+](https://adamj.eu/tech/2020/07/21/how-to-use-djangos-parallel-testing-on-macos-with-python-3.8-plus/) (2020-07-21)
