@@ -17,6 +17,9 @@
 <p>
   ☕️ I drink tea, and especially enjoy a <a href="https://en.wikipedia.org/wiki/Genmaicha">genmaicha</a>.
 </p>
+<p>
+  🔊 I love listening to Drum and Bass, and many other kinds of music.
+</p>
 
 ## Latest blog posts
 
