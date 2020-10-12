@@ -5,7 +5,7 @@
   ✍️ I'm an author and solo consultant working with Ansible, AWS, Django, and Python.
 </p>
 <p>
-  🦄 I'm a member of the <a href="https://www.djangoproject.com/foundation/teams/">Django project</a> Technical Board (2.2, 3.0, and 3.1 release cycles),
+  🦄 I'm a member of the <a href="https://www.djangoproject.com/foundation/teams/">Django project</a> Technical Board (2.2, 3.0, 3.1, and 3.2 release cycles),
   and a co-organizer of the <a href="https://www.djangolondon.com/">The London Django Meetup</a>.
 </p>
 <p>
