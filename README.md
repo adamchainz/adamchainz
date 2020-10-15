@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [A Django REST API in a Single File](https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/) (2020-10-15)
 * [How to Mock Environment Variables in Python’s unittest](https://adamj.eu/tech/2020/10/13/how-to-mock-environment-variables-with-pythons-unittest/) (2020-10-13)
 * [How to Mock Environment Variables in pytest](https://adamj.eu/tech/2020/10/13/how-to-mock-environment-variables-with-pytest/) (2020-10-13)
 * [Prevent Unintended Data Modification With django-read-only](https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/) (2020-10-12)
 * [How to Unit Test a Django Management Command](https://adamj.eu/tech/2020/09/07/how-to-unit-test-a-django-management-command/) (2020-09-07)
-* [What happens when you run manage.py test?](https://adamj.eu/tech/2020/09/05/what-happens-when-you-run-manage.py-test/) (2020-09-05)
