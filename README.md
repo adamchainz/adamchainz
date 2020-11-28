@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Cyber Monday discount for Speed Up Your Django Tests](https://adamj.eu/tech/2020/11/28/speed-up-your-django-tests-cyber-monday-deal/) (2020-11-28)
 * [A Django REST API in a Single File](https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/) (2020-10-15)
 * [How to Mock Environment Variables in Python’s unittest](https://adamj.eu/tech/2020/10/13/how-to-mock-environment-variables-with-pythons-unittest/) (2020-10-13)
 * [How to Mock Environment Variables in pytest](https://adamj.eu/tech/2020/10/13/how-to-mock-environment-variables-with-pytest/) (2020-10-13)
 * [Prevent Unintended Data Modification With django-read-only](https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/) (2020-10-12)
-* [How to Unit Test a Django Management Command](https://adamj.eu/tech/2020/09/07/how-to-unit-test-a-django-management-command/) (2020-09-07)
