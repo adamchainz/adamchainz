@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [How to Set Up report-uri.com on Django](https://adamj.eu/tech/2021/01/05/how-to-set-up-report-uri-com-on-django/) (2021-01-05)
 * [Better Exception Output in Django’s Test Runner With better-exceptions](https://adamj.eu/tech/2021/01/04/better-exception-output-in-djangos-test-runner-with-better-exceptions/) (2021-01-04)
 * [How to Override the gunicorn Server Header](https://adamj.eu/tech/2021/01/03/override-gunicorns-server-header-from-django/) (2021-01-03)
 * [How to Mock the Current Date and Time in Python](https://adamj.eu/tech/2020/12/20/how-to-mock-the-current-date-and-time-in-python/) (2020-12-20)
 * [Introducing django-version-checks](https://adamj.eu/tech/2020/12/14/introducing-django-version-checks/) (2020-12-14)
-* [Introducing django-linear-migrations](https://adamj.eu/tech/2020/12/10/introducing-django-linear-migrations/) (2020-12-10)
