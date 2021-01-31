@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Using Django Check Constraints to Prevent the Storage of The Empty String](https://adamj.eu/tech/2021/01/31/django-check-constraints-prevent-storage-empty-string/) (2021-01-31)
 * [Cheap Bug Protection With pre-commit’s Regex Hooks](https://adamj.eu/tech/2021/01/26/cheap-bug-protection-with-pre-commit-regex-hooks/) (2021-01-26)
 * [How to Limit Test Time in Django’s Test Framework](https://adamj.eu/tech/2021/01/25/how-to-limit-test-time-in-djangos-test-framework/) (2021-01-25)
 * [Reading CloudFlare headers in a Django middleware](https://adamj.eu/tech/2021/01/22/reading-cloudflare-headers-in-a-django-middleware/) (2021-01-22)
 * [Simple In-Memory Caching of Django Model Data With cachetools](https://adamj.eu/tech/2021/01/21/simple-in-memory-caching-of-django-models-with-cachetools/) (2021-01-21)
-* [Efficient Reloading in Django’s Runserver With Watchman](https://adamj.eu/tech/2021/01/20/efficient-reloading-in-djangos-runserver-with-watchman/) (2021-01-20)
