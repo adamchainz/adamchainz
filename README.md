@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [New Testing Features in Django 3.2](https://adamj.eu/tech/2021/02/10/new-testing-features-in-django-3.2/) (2021-02-10)
 * [Using Django Check Constraints to Limit A Model to a Single Instance](https://adamj.eu/tech/2021/02/04/django-check-constraints-limit-model-single-instance/) (2021-02-04)
 * [Using Django Check Constraints to Prevent the Storage of The Empty String](https://adamj.eu/tech/2021/01/31/django-check-constraints-prevent-storage-empty-string/) (2021-01-31)
 * [Cheap Bug Protection With pre-commit’s Regex Hooks](https://adamj.eu/tech/2021/01/26/cheap-bug-protection-with-pre-commit-regex-hooks/) (2021-01-26)
 * [How to Limit Test Time in Django’s Test Framework](https://adamj.eu/tech/2021/01/25/how-to-limit-test-time-in-djangos-test-framework/) (2021-01-25)
-* [Reading CloudFlare headers in a Django middleware](https://adamj.eu/tech/2021/01/22/reading-cloudflare-headers-in-a-django-middleware/) (2021-01-22)
