@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Django’s release code words, up until 3.2](https://adamj.eu/tech/2021/02/20/django-release-code-words/) (2021-02-20)
 * [time-machine versus freezegun, a benchmark](https://adamj.eu/tech/2021/02/19/freezegun-versus-time-machine/) (2021-02-19)
 * [New Testing Features in Django 3.2](https://adamj.eu/tech/2021/02/10/new-testing-features-in-django-3.2/) (2021-02-10)
 * [Using Django Check Constraints to Limit A Model to a Single Instance](https://adamj.eu/tech/2021/02/04/django-check-constraints-limit-model-single-instance/) (2021-02-04)
 * [Using Django Check Constraints to Prevent the Storage of The Empty String](https://adamj.eu/tech/2021/01/31/django-check-constraints-prevent-storage-empty-string/) (2021-01-31)
-* [Cheap Bug Protection With pre-commit’s Regex Hooks](https://adamj.eu/tech/2021/01/26/cheap-bug-protection-with-pre-commit-regex-hooks/) (2021-01-26)
