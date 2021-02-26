@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Using Django Check Constraints to Prevent Self-Following](https://adamj.eu/tech/2021/02/26/django-check-constraints-prevent-self-following/) (2021-02-26)
 * [Improve your Django experience with IPython](https://adamj.eu/tech/2021/02/21/improve-your-django-experience-with-ipython/) (2021-02-21)
 * [Django’s release code words, up until 3.2](https://adamj.eu/tech/2021/02/20/django-release-code-words/) (2021-02-20)
 * [time-machine versus freezegun, a benchmark](https://adamj.eu/tech/2021/02/19/freezegun-versus-time-machine/) (2021-02-19)
 * [New Testing Features in Django 3.2](https://adamj.eu/tech/2021/02/10/new-testing-features-in-django-3.2/) (2021-02-10)
-* [Using Django Check Constraints to Limit A Model to a Single Instance](https://adamj.eu/tech/2021/02/04/django-check-constraints-limit-model-single-instance/) (2021-02-04)
