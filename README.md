@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Reindexing all tables after upgrading to PostgreSQL 13](https://adamj.eu/tech/2021/04/13/reindexing-all-tables-after-upgrading-to-postgresql-13/) (2021-04-13)
 * [How to convert a TestCase from setUp() to setUpTestData()](https://adamj.eu/tech/2021/04/12/how-to-convert-a-testcase-from-setup-to-setuptestdata/) (2021-04-12)
 * [Using Django Check Constraints to Prevent Self-Following](https://adamj.eu/tech/2021/02/26/django-check-constraints-prevent-self-following/) (2021-02-26)
 * [Improve your Django experience with IPython](https://adamj.eu/tech/2021/02/21/improve-your-django-experience-with-ipython/) (2021-02-21)
 * [Django’s release code words, up until 3.2](https://adamj.eu/tech/2021/02/20/django-release-code-words/) (2021-02-20)
-* [time-machine versus freezegun, a benchmark](https://adamj.eu/tech/2021/02/19/freezegun-versus-time-machine/) (2021-02-19)
