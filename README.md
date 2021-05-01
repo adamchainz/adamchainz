@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [How to set the new COEP, COOP, and CORP security headers in Django](https://adamj.eu/tech/2021/05/01/how-to-set-coep-coop-corp-security-headers-in-django/) (2021-05-01)
 * [Introducing the heroicons Python Package](https://adamj.eu/tech/2021/04/16/introducing-the-heroicons-python-package/) (2021-04-16)
 * [django-feature-policy is now django-permissions-policy](https://adamj.eu/tech/2021/04/13/django-feature-policy-is-now-django-permissions-policy/) (2021-04-13)
 * [Reindexing all tables after upgrading to PostgreSQL 13](https://adamj.eu/tech/2021/04/13/reindexing-all-tables-after-upgrading-to-postgresql-13/) (2021-04-13)
 * [How to convert a TestCase from setUp() to setUpTestData()](https://adamj.eu/tech/2021/04/12/how-to-convert-a-testcase-from-setup-to-setuptestdata/) (2021-04-12)
-* [Using Django Check Constraints to Prevent Self-Following](https://adamj.eu/tech/2021/02/26/django-check-constraints-prevent-self-following/) (2021-02-26)
