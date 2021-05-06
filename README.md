@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [How to List All Time Zones in Python](https://adamj.eu/tech/2021/05/06/how-to-list-all-timezones-in-python/) (2021-05-06)
 * [3 uses for functools.partial in Django](https://adamj.eu/tech/2021/05/05/3-uses-for-functools-partial-in-django/) (2021-05-05)
 * [Disabling FLoC, Google’s new advertising technology](https://adamj.eu/tech/2021/05/04/disabling-floc-googles-new-advertising-technology/) (2021-05-04)
 * [How to set the new COEP, COOP, and CORP security headers in Django](https://adamj.eu/tech/2021/05/01/how-to-set-coep-coop-corp-security-headers-in-django/) (2021-05-01)
 * [Introducing the heroicons Python Package](https://adamj.eu/tech/2021/04/16/introducing-the-heroicons-python-package/) (2021-04-16)
-* [django-feature-policy is now django-permissions-policy](https://adamj.eu/tech/2021/04/13/django-feature-policy-is-now-django-permissions-policy/) (2021-04-13)
