@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [How to Build a Webhook Receiver in Django](https://adamj.eu/tech/2021/05/09/how-to-build-a-webhook-receiver-in-django/) (2021-05-09)
 * [Using Django Check Constraints to Limit the Range of an IntegerField](https://adamj.eu/tech/2021/05/08/django-check-constraints-limit-range-integerfield/) (2021-05-08)
 * [Python Type Hints - Use object instead of Any](https://adamj.eu/tech/2021/05/07/python-type-hints-use-object-instead-of-any/) (2021-05-07)
 * [How to List All Time Zones in Python](https://adamj.eu/tech/2021/05/06/how-to-list-all-timezones-in-python/) (2021-05-06)
 * [3 uses for functools.partial in Django](https://adamj.eu/tech/2021/05/05/3-uses-for-functools-partial-in-django/) (2021-05-05)
-* [Disabling FLoC, Google’s new advertising technology](https://adamj.eu/tech/2021/05/04/disabling-floc-googles-new-advertising-technology/) (2021-05-04)
