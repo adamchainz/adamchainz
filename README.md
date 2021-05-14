@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - How to Debug Types With reveal_type()](https://adamj.eu/tech/2021/05/14/python-type-hints-how-to-debug-types-with-reveal-type/) (2021-05-14)
 * [Python Type Hints - How to Fix Circular Imports](https://adamj.eu/tech/2021/05/13/python-type-hints-how-to-fix-circular-imports/) (2021-05-13)
 * [Python Type Hints - How to Create a TypedDict with Non-Identifier Keys](https://adamj.eu/tech/2021/05/12/python-type-hints-how-to-create-a-typeddict-with-non-identifier-keys/) (2021-05-12)
 * [Python Type Hints - *args and **kwargs](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/) (2021-05-11)
 * [Python Type Hints - How to Use TypedDict](https://adamj.eu/tech/2021/05/10/python-type-hints-how-to-use-typeddict/) (2021-05-10)
-* [How to Build a Webhook Receiver in Django](https://adamj.eu/tech/2021/05/09/how-to-build-a-webhook-receiver-in-django/) (2021-05-09)
