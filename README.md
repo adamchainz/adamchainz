@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - How to use Mypy’s unreachable code detection](https://adamj.eu/tech/2021/05/19/python-type-hints-mypy-unreachable-code-detection/) (2021-05-19)
 * [Python Type Hints - Duck typing with Protocol](https://adamj.eu/tech/2021/05/18/python-type-hints-duck-typing-with-protocol/) (2021-05-18)
 * [Python Type Hints - How to Narrow Types with isinstance(), assert, and Literal](https://adamj.eu/tech/2021/05/17/python-type-hints-how-to-narrow-types-with-isinstance-assert-literal/) (2021-05-17)
 * [Python Type Hints - How to Specify a Class Rather Than an Instance Thereof](https://adamj.eu/tech/2021/05/16/python-type-hints-return-class-not-instance/) (2021-05-16)
 * [Python Type Hints - How to Enable Postponed Evaluation With __future__.annotations](https://adamj.eu/tech/2021/05/15/python-type-hints-future-annotations/) (2021-05-15)
-* [Python Type Hints - How to Debug Types With reveal_type()](https://adamj.eu/tech/2021/05/14/python-type-hints-how-to-debug-types-with-reveal-type/) (2021-05-14)
