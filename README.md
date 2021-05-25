@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - How to Manage "type: ignore" Comments with Mypy](https://adamj.eu/tech/2021/05/25/python-type-hints-specific-type-ignore/) (2021-05-25)
 * [Python Type Hints - Mypy doesn’t allow variables to change type](https://adamj.eu/tech/2021/05/23/python-type-hints-mypy-doesnt-allow-variables-to-change-type/) (2021-05-23)
 * [Python Type Hints - How to Upgrade Syntax with pyupgrade](https://adamj.eu/tech/2021/05/21/python-type-hints-how-to-upgrade-syntax-with-pyupgrade/) (2021-05-21)
 * [Python Type Hints - What’s the point of NoReturn?](https://adamj.eu/tech/2021/05/20/python-type-hints-whats-the-point-of-noreturn/) (2021-05-20)
 * [Python Type Hints - How to use Mypy’s unreachable code detection](https://adamj.eu/tech/2021/05/19/python-type-hints-mypy-unreachable-code-detection/) (2021-05-19)
-* [Python Type Hints - Duck typing with Protocol](https://adamj.eu/tech/2021/05/18/python-type-hints-duck-typing-with-protocol/) (2021-05-18)
