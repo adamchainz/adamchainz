@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - Three Somewhat Unexpected Uses of typing.Any in Python’s Standard Library](https://adamj.eu/tech/2021/06/14/python-type-hints-3-somewhat-unexpected-uses-of-typing-any-in-pythons-standard-library/) (2021-06-14)
 * [Python Type Hints - How to Narrow Types with TypeGuard](https://adamj.eu/tech/2021/06/09/python-type-hints-how-to-narrow-types-with-typeguard/) (2021-06-09)
 * [DjangoCon Europe 2021 Sale of “Speed Up Your Django Tests”](https://adamj.eu/tech/2021/06/01/djangocon-europe-2021-sale-of-speed-up-your-django-tests/) (2021-06-01)
 * [Python Type Hints - How to Use @overload](https://adamj.eu/tech/2021/05/29/python-type-hints-how-to-use-overload/) (2021-05-29)
 * [Python Type Hints - How to Manage "type: ignore" Comments with Mypy](https://adamj.eu/tech/2021/05/25/python-type-hints-specific-type-ignore/) (2021-05-25)
-* [Python Type Hints - Mypy doesn’t allow variables to change type](https://adamj.eu/tech/2021/05/23/python-type-hints-mypy-doesnt-allow-variables-to-change-type/) (2021-05-23)
