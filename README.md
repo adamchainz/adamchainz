@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - How to Use typing.Literal](https://adamj.eu/tech/2021/07/09/python-type-hints-how-to-use-typing-literal/) (2021-07-09)
 * [Django 3.2 Update for “Speed Up Your Django Tests” Released](https://adamj.eu/tech/2021/07/08/django-3.2-update-for-speed-up-your-django-tests-released/) (2021-07-08)
 * [Python Type Hints - How to Use typing.cast()](https://adamj.eu/tech/2021/07/06/python-type-hints-how-to-use-typing-cast/) (2021-07-06)
 * [Recent Updates to time-machine](https://adamj.eu/tech/2021/07/05/recent-updates-to-time-machine/) (2021-07-05)
 * [Python Type Hints - How to Type a Context Manager](https://adamj.eu/tech/2021/07/04/python-type-hints-how-to-type-a-context-manager/) (2021-07-04)
-* [How to use Python’s HTTPStatus with Django](https://adamj.eu/tech/2021/06/30/how-to-use-httpstatus-in-django/) (2021-06-30)
