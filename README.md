@@ -23,8 +23,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - Use Cases for the types Module](https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/) (2021-09-08)
 * [Python Type Hints - How to Work with Regular Expressions](https://adamj.eu/tech/2021/09/07/python-type-hints-how-to-work-with-regular-expressions/) (2021-09-07)
 * [Python Type Hints - How to Vary Return Type Based on an Argument](https://adamj.eu/tech/2021/09/06/python-type-hints-how-to-vary-return-type-based-on-an-argument/) (2021-09-06)
 * [Python Type Hints - How to Avoid “The Boolean Trap”](https://adamj.eu/tech/2021/07/10/python-type-hints-how-to-avoid-the-boolean-trap/) (2021-07-10)
 * [Python Type Hints - How to Use typing.Literal](https://adamj.eu/tech/2021/07/09/python-type-hints-how-to-use-typing-literal/) (2021-07-09)
-* [Django 3.2 Update for “Speed Up Your Django Tests” Released](https://adamj.eu/tech/2021/07/08/django-3.2-update-for-speed-up-your-django-tests-released/) (2021-07-08)
