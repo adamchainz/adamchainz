@@ -21,7 +21,7 @@ def get_bio():
     if response.status_code != 200:
         raise ValueError("Unexpected response status code {response.status_code}")
     soup = BeautifulSoup(response.content.decode(), "html.parser")
-    heading = soup.body.find("h2", text="Me")
+    heading = soup.body.find("div", id="me").find("h2")
     for elem in heading.next_siblings:
         if elem.name == "h2":
             break
