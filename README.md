@@ -1,30 +1,15 @@
-<p>
-  👋 Hi, I'm Adam, and welcome to my GitHub bio.
-</p>
-<p>
-  ✍️ I'm an author and solo consultant working with Ansible, AWS, Django, and Python.
-</p>
-<p>
-  🦄 I'm a member of the <a href="https://www.djangoproject.com/foundation/teams/">Django project</a> Technical Board (2.2 through 4.0 release cycles),
-  and a co-organizer of the <a href="https://www.djangolondon.com/">The London Django Meetup</a>.
-</p>
-<p>
-  🇬🇧 I'm based in London, UK.
-</p>
-<p>
-  ✈️ I love to travel, especially to Django and Python conferences!
-</p>
-<p>
-  ☕️ I drink tea, and especially enjoy a <a href="https://en.wikipedia.org/wiki/Genmaicha">genmaicha</a>.
-</p>
-<p>
-  🔊 I love listening to Drum and Bass, and many other kinds of music.
-</p>
+<p>👋 Hi, I'm Adam, and welcome to my GitHub bio.</p>
+<p>✍️ I'm an author and solo consultant working with Ansible, AWS, Django, and Python.</p>
+<p>🦄 I'm a member of the <a class="reference external" href="https://www.djangoproject.com/foundation/teams/">Django project</a> Technical Board (2.2 through 4.0 release cycles), and a co-organizer of the <a class="reference external" href="https://www.djangolondon.com/">The London Django Meetup</a>.</p>
+<p>🇬🇧 I'm based in London, UK.</p>
+<p>✈️ I love to travel, especially to Django and Python conferences!</p>
+<p>☕️ I drink tea, and especially enjoy a <a class="reference external" href="https://en.wikipedia.org/wiki/Genmaicha">genmaicha</a>.</p>
+<p>🔊 I love listening to Drum and Bass, and many other kinds of music.</p>
 
 ## Latest blog posts
 
-* [Python Type Hints - Use Cases for the types Module](https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/) (2021-09-08)
-* [Python Type Hints - How to Work with Regular Expressions](https://adamj.eu/tech/2021/09/07/python-type-hints-how-to-work-with-regular-expressions/) (2021-09-07)
-* [Python Type Hints - How to Vary Return Type Based on an Argument](https://adamj.eu/tech/2021/09/06/python-type-hints-how-to-vary-return-type-based-on-an-argument/) (2021-09-06)
-* [Python Type Hints - How to Avoid “The Boolean Trap”](https://adamj.eu/tech/2021/07/10/python-type-hints-how-to-avoid-the-boolean-trap/) (2021-07-10)
-* [Python Type Hints - How to Use typing.Literal](https://adamj.eu/tech/2021/07/09/python-type-hints-how-to-use-typing-literal/) (2021-07-09)
+* [Truncating my blog posts with Python’s HTMLParser](https://adamj.eu/tech/2021/09/23/truncating-my-blog-posts-with-html-parser/) (2021-09-23)
+* [How to Fix Pip “Yanked Version” Warnings](https://adamj.eu/tech/2021/09/20/how-to-fix-pip-yanked-version-warnings/) (2021-09-20)
+* [Does Python support semicolons?](https://adamj.eu/tech/2021/09/17/does-python-support-semicolons/) (2021-09-17)
+* [Why does Python log a warning for “invalid decimal literal”?](https://adamj.eu/tech/2021/09/16/why-does-python-log-a-warning-for-invalid-decimal-literal/) (2021-09-16)
+* [Introducing django-upgrade, a tool for upgrading your Django projects](https://adamj.eu/tech/2021/09/16/introducing-django-upgrade/) (2021-09-16)
