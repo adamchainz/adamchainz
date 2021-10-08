@@ -8,8 +8,8 @@
 
 ## Latest blog posts
 
+* [Tips for debugging with print()](https://adamj.eu/tech/2021/10/08/tips-for-debugging-with-print/) (2021-10-08)
 * [New Testing Features in Django 4.0](https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/) (2021-09-28)
 * [Truncating my blog posts with Python’s HTMLParser](https://adamj.eu/tech/2021/09/23/truncating-my-blog-posts-with-html-parser/) (2021-09-23)
 * [How to Fix Pip “Yanked Version” Warnings](https://adamj.eu/tech/2021/09/20/how-to-fix-pip-yanked-version-warnings/) (2021-09-20)
 * [Does Python support semicolons?](https://adamj.eu/tech/2021/09/17/does-python-support-semicolons/) (2021-09-17)
-* [Why does Python log a warning for “invalid decimal literal”?](https://adamj.eu/tech/2021/09/16/why-does-python-log-a-warning-for-invalid-decimal-literal/) (2021-09-16)
