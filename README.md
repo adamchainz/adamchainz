@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Today’s Django Security Release Deconstructed (4.0.1, 3.2.11, and 2.2.26)](https://adamj.eu/tech/2022/01/04/django-security-release/) (2022-01-04)
 * [Python Type Hints - How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/) (2021-12-29)
 * [Set up a Gunicorn Configuration File, and Test It](https://adamj.eu/tech/2021/12/29/set-up-a-gunicorn-configuration-file-and-test-it/) (2021-12-29)
 * [Introducing django-browser-reload: Automatically Reload Your Browser in Development](https://adamj.eu/tech/2021/12/16/introducing-django-browser-reload/) (2021-12-16)
 * [Preorder My New Book: Boost Your Django DX](https://adamj.eu/tech/2021/12/08/pre-order-boost-your-django-dx/) (2021-12-08)
-* [Django-related Deals for Black Friday and Cyber Monday](https://adamj.eu/tech/2021/11/22/django-black-friday-deals/) (2021-11-22)
