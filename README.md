@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [“Boost Your Django DX” Released](https://adamj.eu/tech/2022/01/10/boost-your-django-dx-released/) (2022-01-10)
 * [My Third Appearance on Django Chat](https://adamj.eu/tech/2022/01/05/my-third-appearance-on-django-chat/) (2022-01-05)
 * [How to Make an Immutable Dict in Python](https://adamj.eu/tech/2022/01/05/how-to-make-immutable-dict-in-python/) (2022-01-05)
 * [Today’s Django Security Release Deconstructed (4.0.1, 3.2.11, and 2.2.26)](https://adamj.eu/tech/2022/01/04/django-security-release/) (2022-01-04)
 * [Python Type Hints - How to Handle Optional Imports](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/) (2021-12-29)
-* [Set up a Gunicorn Configuration File, and Test It](https://adamj.eu/tech/2021/12/29/set-up-a-gunicorn-configuration-file-and-test-it/) (2021-12-29)
