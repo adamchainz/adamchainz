@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [How to Fix a Python “SyntaxError: invalid character” Caused by Curly Quotes](https://adamj.eu/tech/2022/01/14/how-to-fix-python-syntaxerror-invalid-character/) (2022-01-14)
+* [Make Simple Mocks With SimpleNamespace](https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/) (2022-01-14)
 * [Book-Driven Development from “Boost Your Django DX”](https://adamj.eu/tech/2022/01/12/book-driven-development-from-boost-your-django-dx/) (2022-01-12)
 * [Removing Python 3.6 Support from My Packages](https://adamj.eu/tech/2022/01/11/removing-python-3.6-support-from-my-packages/) (2022-01-11)
 * [“Boost Your Django DX” Released](https://adamj.eu/tech/2022/01/10/boost-your-django-dx-released/) (2022-01-10)
-* [My Third Appearance on Django Chat](https://adamj.eu/tech/2022/01/05/my-third-appearance-on-django-chat/) (2022-01-05)
-* [How to Make an Immutable Dict in Python](https://adamj.eu/tech/2022/01/05/how-to-make-immutable-dict-in-python/) (2022-01-05)
