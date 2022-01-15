@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - How to Split Types by Python Version](https://adamj.eu/tech/2022/01/15/python-type-hints-how-to-split-types-by-python-version/) (2022-01-15)
 * [Set up EditorConfig for Your Django Project](https://adamj.eu/tech/2022/01/14/set-up-editorconfig-for-your-django-project/) (2022-01-14)
 * [How to Fix a Python “SyntaxError: invalid character” Caused by Curly Quotes](https://adamj.eu/tech/2022/01/14/how-to-fix-python-syntaxerror-invalid-character/) (2022-01-14)
 * [Make Simple Mocks With SimpleNamespace](https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/) (2022-01-14)
 * [Book-Driven Development from “Boost Your Django DX”](https://adamj.eu/tech/2022/01/12/book-driven-development-from-boost-your-django-dx/) (2022-01-12)
-* [Removing Python 3.6 Support from My Packages](https://adamj.eu/tech/2022/01/11/removing-python-3.6-support-from-my-packages/) (2022-01-11)
