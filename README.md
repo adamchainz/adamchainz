@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [A Problem with Duplicated Mutable Constants](https://adamj.eu/tech/2022/01/20/a-problem-with-duplicated-mutable-constants/) (2022-01-20)
+* [Optimize your PNG’s with oxipng and pre-commit](https://adamj.eu/tech/2022/01/20/optimize-your-pngs-with-oxipng-and-pre-commit/) (2022-01-20)
 * [On Receiving the Malcolm Tredinnick Award](https://adamj.eu/tech/2022/01/19/on-receiving-the-malcolm-tredinnick-award/) (2022-01-19)
 * [How to Add a Favicon to Your Django Site](https://adamj.eu/tech/2022/01/18/how-to-add-a-favicon-to-your-django-site/) (2022-01-18)
 * [Python Type Hints - How to Split Types by Python Version](https://adamj.eu/tech/2022/01/15/python-type-hints-how-to-split-types-by-python-version/) (2022-01-15)
-* [Set up EditorConfig for Your Django Project](https://adamj.eu/tech/2022/01/14/set-up-editorconfig-for-your-django-project/) (2022-01-14)
-* [How to Fix a Python “SyntaxError: invalid character” Caused by Curly Quotes](https://adamj.eu/tech/2022/01/14/how-to-fix-python-syntaxerror-invalid-character/) (2022-01-14)
