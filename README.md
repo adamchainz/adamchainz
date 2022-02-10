@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Announcing WhiteNoise 6](https://adamj.eu/tech/2022/02/09/announcing-whitenoise-6/) (2022-02-09)
 * [Appearance on Podcast.__init__](https://adamj.eu/tech/2022/01/27/podcast-init/) (2022-01-27)
 * [How to Set Up Source Maps with Django](https://adamj.eu/tech/2022/01/26/django-and-source-maps/) (2022-01-26)
 * [A Problem with Duplicated Mutable Constants](https://adamj.eu/tech/2022/01/20/a-problem-with-duplicated-mutable-constants/) (2022-01-20)
 * [Optimize your PNG’s with oxipng and pre-commit](https://adamj.eu/tech/2022/01/20/optimize-your-pngs-with-oxipng-and-pre-commit/) (2022-01-20)
-* [On Receiving the Malcolm Tredinnick Award](https://adamj.eu/tech/2022/01/19/on-receiving-the-malcolm-tredinnick-award/) (2022-01-19)
