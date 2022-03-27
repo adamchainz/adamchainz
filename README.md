@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [You Probably Don’t Need Django’s get_user_model()](https://adamj.eu/tech/2022/03/27/you-probably-dont-need-djangos-get-user-model/) (2022-03-27)
+* [How to Lock Your Project’s Node.js Version](https://adamj.eu/tech/2022/03/27/how-to-lock-your-projects-node-js-version/) (2022-03-27)
 * [How to Squash and Rebase a Git Branch](https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/) (2022-03-25)
 * [How to Run a Command on Many Files in Your Git Repository](https://adamj.eu/tech/2022/03/09/how-to-run-a-command-on-many-files-in-your-git-repository/) (2022-03-09)
 * [django-htmx Now on Read the Docs](https://adamj.eu/tech/2022/03/02/django-htmx-on-read-the-docs/) (2022-03-02)
-* [Announcing WhiteNoise 6](https://adamj.eu/tech/2022/02/09/announcing-whitenoise-6/) (2022-02-09)
-* [Appearance on Podcast.__init__](https://adamj.eu/tech/2022/01/27/podcast-init/) (2022-01-27)
