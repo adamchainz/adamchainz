@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [How to Clean Up Unused Code With Git](https://adamj.eu/tech/2022/04/18/how-to-clean-up-unused-code-with-git/) (2022-04-18)
 * [How to Be a Teapot in Django](https://adamj.eu/tech/2022/04/01/how-to-be-a-teapot-in-django/) (2022-04-01)
 * [How to Make Django Raise an Error for Missing Template Variables](https://adamj.eu/tech/2022/03/30/how-to-make-django-error-for-undefined-template-variables/) (2022-03-30)
 * [You Probably Don’t Need Django’s get_user_model()](https://adamj.eu/tech/2022/03/27/you-probably-dont-need-djangos-get-user-model/) (2022-03-27)
 * [How to Lock Your Project’s Node.js Version](https://adamj.eu/tech/2022/03/27/how-to-lock-your-projects-node-js-version/) (2022-03-27)
-* [How to Squash and Rebase a Git Branch](https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/) (2022-03-25)
