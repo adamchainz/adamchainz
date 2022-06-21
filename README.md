@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Shell Tricks for Repeatedly Running Flaky Tests](https://adamj.eu/tech/2022/06/20/shell-tricks-for-repeatedly-running-flaky-tests/) (2022-06-20)
 * [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/) (2022-06-20)
 * [Mike Acton’s Expectations of Professional Software Engineers](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/) (2022-06-17)
 * [How to Clean Up Unused Code With Git](https://adamj.eu/tech/2022/04/18/how-to-clean-up-unused-code-with-git/) (2022-04-18)
 * [How to Be a Teapot in Django](https://adamj.eu/tech/2022/04/01/how-to-be-a-teapot-in-django/) (2022-04-01)
-* [How to Make Django Raise an Error for Missing Template Variables](https://adamj.eu/tech/2022/03/30/how-to-make-django-error-for-undefined-template-variables/) (2022-03-30)
