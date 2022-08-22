@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Use partial() With Django’s transaction.on_commit() to Avoid Late-Binding Bugs](https://adamj.eu/tech/2022/08/22/use-partial-with-djangos-transaction-on-commit/) (2022-08-22)
 * [How to Run a Django Migration “By Hand”](https://adamj.eu/tech/2022/06/29/run-a-django-migration-by-hand/) (2022-06-29)
 * [How to Patch Requests to Have a Default Timeout](https://adamj.eu/tech/2022/06/23/how-to-patch-requests-to-have-a-default-timeout/) (2022-06-23)
 * [How to optimize PostgreSQL queries from Django using pgMustard](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/) (2022-06-21)
 * [Shell Tricks for Repeatedly Running Flaky Tests](https://adamj.eu/tech/2022/06/20/shell-tricks-for-repeatedly-running-flaky-tests/) (2022-06-20)
-* [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/) (2022-06-20)
