@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [How to Safely Pass Data to JavaScript in a Django Template](https://adamj.eu/tech/2022/10/06/how-to-safely-pass-data-to-javascript-in-a-django-template/) (2022-10-06)
 * [Python Type Hints: How to Gradually Add Types for Third Party Packages](https://adamj.eu/tech/2022/08/23/python-type-hints-gradually-add-types-for-third-party-packages/) (2022-08-23)
 * [Use partial() With Django’s transaction.on_commit() to Avoid Late-Binding Bugs](https://adamj.eu/tech/2022/08/22/use-partial-with-djangos-transaction-on-commit/) (2022-08-22)
 * [How to Run a Django Migration “By Hand”](https://adamj.eu/tech/2022/06/29/run-a-django-migration-by-hand/) (2022-06-29)
 * [How to Patch Requests to Have a Default Timeout](https://adamj.eu/tech/2022/06/23/how-to-patch-requests-to-have-a-default-timeout/) (2022-06-23)
-* [How to optimize PostgreSQL queries from Django using pgMustard](https://adamj.eu/tech/2022/06/21/optimize-postgresql-queries-from-django-using-pgmustard/) (2022-06-21)
