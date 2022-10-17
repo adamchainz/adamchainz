@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - Old and new ways to write the same types](https://adamj.eu/tech/2022/10/17/python-type-hints-old-and-new-syntaxes/) (2022-10-17)
 * [How to rebase stacked Git branches](https://adamj.eu/tech/2022/10/15/how-to-rebase-stacked-git-branches/) (2022-10-15)
 * [Python Type Hints - How to Do Exhaustiveness Checking](https://adamj.eu/tech/2022/10/14/python-type-hints-exhuastiveness-checking/) (2022-10-14)
 * [How to implement a “dry run mode” for data imports in Django](https://adamj.eu/tech/2022/10/13/dry-run-mode-for-data-imports-in-django/) (2022-10-13)
 * [Python Type Hints - Lambdas don’t support type hints, but that’s okay](https://adamj.eu/tech/2022/10/10/python-type-hints-lambda-incompatible/) (2022-10-10)
-* [How to Safely Pass Data to JavaScript in a Django Template](https://adamj.eu/tech/2022/10/06/how-to-safely-pass-data-to-javascript-in-a-django-template/) (2022-10-06)
