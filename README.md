@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Use WARMED to evaluate software engineering practices](https://adamj.eu/tech/2022/10/22/use-warmed-to-evaluate-software-engineering-practices/) (2022-10-22)
 * [Migrate PostgreSQL ID’s from serial to identity after upgrading to Django 4.1](https://adamj.eu/tech/2022/10/21/migrate-postgresql-ids-serial-identity-django-4.1/) (2022-10-21)
 * [pre-commit: Various Ways to Run Hooks](https://adamj.eu/tech/2022/10/20/pre-commit-various-ways-to-run-hooks/) (2022-10-20)
 * [Python Type Hints - Make Mypy disallow implicit optional types](https://adamj.eu/tech/2022/10/18/python-type-hints-implicit-optional-types/) (2022-10-18)
 * [Python Type Hints - Old and new ways to write the same types](https://adamj.eu/tech/2022/10/17/python-type-hints-old-and-new-syntaxes/) (2022-10-17)
-* [How to rebase stacked Git branches](https://adamj.eu/tech/2022/10/15/how-to-rebase-stacked-git-branches/) (2022-10-15)
