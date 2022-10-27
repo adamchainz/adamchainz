@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: How to alias “master” as “main”](https://adamj.eu/tech/2022/10/27/git-how-to-alias-master-as-main/) (2022-10-27)
 * [Git: How to enable autocorrect](https://adamj.eu/tech/2022/10/26/git-how-to-enable-autocorrect/) (2022-10-26)
 * [django-upgrade Mega Release 1.11.0](https://adamj.eu/tech/2022/10/26/django-upgrade-mega-release/) (2022-10-26)
 * [Python Type Hints - How to use Mypy’s always-true boolean check detection](https://adamj.eu/tech/2022/10/24/python-type-hints-truthy-bool/) (2022-10-24)
 * [Git: How to show and copy commit SHA’s](https://adamj.eu/tech/2022/10/24/git-how-to-show-and-copy-commit-shas/) (2022-10-24)
-* [Use WARMED to evaluate software engineering practices](https://adamj.eu/tech/2022/10/22/use-warmed-to-evaluate-software-engineering-practices/) (2022-10-22)
