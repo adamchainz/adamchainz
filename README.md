@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Why does Python log a DeprecationWarning saying “invalid escape sequence”?](https://adamj.eu/tech/2022/11/04/why-does-python-deprecationwarning-invalid-escape-sequence/) (2022-11-04)
 * [Git: How to undo commits](https://adamj.eu/tech/2022/11/02/git-how-to-undo-commits/) (2022-11-02)
 * [Git: How to automatically create upstream branches](https://adamj.eu/tech/2022/10/31/git-how-to-automatically-create-upstream-branches/) (2022-10-31)
 * [Git: How to clean up squash-merged branches](https://adamj.eu/tech/2022/10/30/git-how-to-clean-up-squash-merged-branches/) (2022-10-30)
 * [Git: How to alias “master” as “main”](https://adamj.eu/tech/2022/10/27/git-how-to-alias-master-as-main/) (2022-10-27)
-* [Git: How to enable autocorrect](https://adamj.eu/tech/2022/10/26/git-how-to-enable-autocorrect/) (2022-10-26)
