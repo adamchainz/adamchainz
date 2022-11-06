@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: How to set up a global ignore file](https://adamj.eu/tech/2022/11/06/git-set-up-a-global-ignore-file/) (2022-11-06)
 * [Git: How to automatically stash while rebasing or merging](https://adamj.eu/tech/2022/11/05/git-automatically-stash-rebase-merge/) (2022-11-05)
 * [Why does Python log a DeprecationWarning saying “invalid escape sequence”?](https://adamj.eu/tech/2022/11/04/why-does-python-deprecationwarning-invalid-escape-sequence/) (2022-11-04)
 * [Git: How to undo commits](https://adamj.eu/tech/2022/11/02/git-how-to-undo-commits/) (2022-11-02)
 * [Git: How to automatically create upstream branches](https://adamj.eu/tech/2022/10/31/git-how-to-automatically-create-upstream-branches/) (2022-10-31)
-* [Git: How to clean up squash-merged branches](https://adamj.eu/tech/2022/10/30/git-how-to-clean-up-squash-merged-branches/) (2022-10-30)
