@@ -3,7 +3,7 @@
 ## Latest blog posts
 
 * [Git: How to disable status advice](https://adamj.eu/tech/2022/11/08/git-disable-status-advice/) (2022-11-08)
-* [Git: Aliases to speed up fixing merge conflicts](https://adamj.eu/tech/2022/11/08/git-aliases-speed-up-fixing-merge-conflicts/) (2022-11-08)
+* [Git: An alias to speed up fixing merge conflicts](https://adamj.eu/tech/2022/11/08/git-aliases-speed-up-fixing-merge-conflicts/) (2022-11-08)
 * [How to search your virtualenv for mystery error messages](https://adamj.eu/tech/2022/11/07/search-your-virtualenv-mystery-error-messages/) (2022-11-07)
 * [pre-commit: How to run hooks during a rebase](https://adamj.eu/tech/2022/11/07/pre-commit-run-hooks-rebase/) (2022-11-07)
 * [Git: How to set up a global ignore file](https://adamj.eu/tech/2022/11/06/git-set-up-a-global-ignore-file/) (2022-11-06)
