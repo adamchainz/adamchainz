@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django Settings Patterns to Avoid](https://adamj.eu/tech/2022/11/24/django-settings-patterns-to-avoid/) (2022-11-24)
 * [Django-related Deals for Black Friday and Cyber Monday 2022](https://adamj.eu/tech/2022/11/21/django-black-friday-deals-2022/) (2022-11-21)
 * [unittest’s new context methods in Python 3.11 (with backports)](https://adamj.eu/tech/2022/11/14/unittest-context-methods-python-3-11-backports/) (2022-11-14)
 * [Git: How to disable status advice](https://adamj.eu/tech/2022/11/08/git-disable-status-advice/) (2022-11-08)
 * [Git: An alias to speed up fixing merge conflicts](https://adamj.eu/tech/2022/11/08/git-aliases-speed-up-fixing-merge-conflicts/) (2022-11-08)
-* [How to search your virtualenv for mystery error messages](https://adamj.eu/tech/2022/11/07/search-your-virtualenv-mystery-error-messages/) (2022-11-07)
