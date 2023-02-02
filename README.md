@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [New purchasing power parity discounts](https://adamj.eu/tech/2023/02/02/new-purchasing-parity-power-discounts/) (2023-02-02)
 * [Git: How to add and remove execute permissions](https://adamj.eu/tech/2023/01/31/git-add-remove-execute-permissions/) (2023-01-31)
 * [Tidelift for five packages I maintain](https://adamj.eu/tech/2023/01/09/tidelift-for-five-packages-i-maintain/) (2023-01-09)
 * [Git: How to change the case of filenames](https://adamj.eu/tech/2022/12/09/git-change-case-of-filenames/) (2022-12-09)
 * [Django Settings Patterns to Avoid](https://adamj.eu/tech/2022/11/24/django-settings-patterns-to-avoid/) (2022-11-24)
-* [Django-related Deals for Black Friday and Cyber Monday 2022](https://adamj.eu/tech/2022/11/21/django-black-friday-deals-2022/) (2022-11-21)
