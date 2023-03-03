@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: How to profile and improve startup time](https://adamj.eu/tech/2023/03/02/django-profile-and-improve-import-time/) (2023-03-02)
 * [How to migrate from Django’s PostgreSQL CI Fields to use a case-insensitive collation](https://adamj.eu/tech/2023/02/23/migrate-django-postgresql-ci-fields-case-insensitive-collation/) (2023-02-23)
 * [django-upgrade release with Django 4.2 fixers](https://adamj.eu/tech/2023/02/17/django-upgrade-release-django-4.2/) (2023-02-17)
 * [Git: How to skip hooks](https://adamj.eu/tech/2023/02/13/git-skip-hooks/) (2023-02-13)
 * [pre-commit: How to create hooks for unsupported tools](https://adamj.eu/tech/2023/02/09/pre-commit-hooks-unsupported-tools/) (2023-02-09)
-* [New purchasing power parity discounts](https://adamj.eu/tech/2023/02/02/new-purchasing-parity-power-discounts/) (2023-02-02)
