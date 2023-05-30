@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: Detect an in-progress cherry-pick, merge, rebase, or revert](https://adamj.eu/tech/2023/05/29/git-detect-in-progress-operation/) (2023-05-29)
 * [Django: Avoid database queries in template context processors](https://adamj.eu/tech/2023/03/23/django-context-processors-database-queries/) (2023-03-23)
 * [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/) (2023-03-17)
 * [How to download a documentation website with Wget](https://adamj.eu/tech/2023/03/07/download-documentation-website-with-wget/) (2023-03-07)
 * [Django: How to profile and improve startup time](https://adamj.eu/tech/2023/03/02/django-profile-and-improve-import-time/) (2023-03-02)
-* [How to migrate from Django’s PostgreSQL CI Fields to use a case-insensitive collation](https://adamj.eu/tech/2023/02/23/migrate-django-postgresql-ci-fields-case-insensitive-collation/) (2023-02-23)
