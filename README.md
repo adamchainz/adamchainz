@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python Type Hints - Modernized error messages in Mypy 1.4.0](https://adamj.eu/tech/2023/06/26/python-type-hints-modernized-error-messages-mypy-1.4.0/) (2023-06-26)
 * [Django: A security improvement coming to format_html()](https://adamj.eu/tech/2023/06/15/format-html/) (2023-06-15)
 * [“Boost Your Git DX” available in early access](https://adamj.eu/tech/2023/06/03/boost-your-git-dx-early-access/) (2023-06-03)
 * [Git: Detect an in-progress cherry-pick, merge, rebase, or revert](https://adamj.eu/tech/2023/05/29/git-detect-in-progress-operation/) (2023-05-29)
 * [Django: Avoid database queries in template context processors](https://adamj.eu/tech/2023/03/23/django-context-processors-database-queries/) (2023-03-23)
-* [Django: Parametrized tests for all model admin classes](https://adamj.eu/tech/2023/03/17/django-parameterized-tests-model-admin-classes/) (2023-03-17)
