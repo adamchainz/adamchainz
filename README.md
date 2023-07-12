@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: Clean up unused code with Vulture](https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/) (2023-07-12)
 * [Django: Flush out test flakiness by randomly ordering QuerySets](https://adamj.eu/tech/2023/07/04/django-test-random-order-querysets/) (2023-07-04)
 * [Django: A version of json_script for pre-serialized JSON strings](https://adamj.eu/tech/2023/07/02/django-json-script-pre-serialized-json-strings/) (2023-07-02)
 * [Python Type Hints - Modernized error messages in Mypy 1.4.0](https://adamj.eu/tech/2023/06/26/python-type-hints-modernized-error-messages-mypy-1.4.0/) (2023-06-26)
 * [Django: A security improvement coming to format_html()](https://adamj.eu/tech/2023/06/15/format-html/) (2023-06-15)
-* [“Boost Your Git DX” available in early access](https://adamj.eu/tech/2023/06/03/boost-your-git-dx-early-access/) (2023-06-03)
