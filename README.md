@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: Profile a section of code with cProfile](https://adamj.eu/tech/2023/07/23/python-profile-section-cprofile/) (2023-07-23)
 * [Python type hints: How to pass Any for unused parameters in tests](https://adamj.eu/tech/2023/07/15/python-type-hints-pass-any-unused-parameters-tests/) (2023-07-15)
 * [Django: Clean up unused code with Vulture](https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/) (2023-07-12)
 * [Django: Flush out test flakiness by randomly ordering QuerySets](https://adamj.eu/tech/2023/07/04/django-test-random-order-querysets/) (2023-07-04)
 * [Django: A version of json_script for pre-serialized JSON strings](https://adamj.eu/tech/2023/07/02/django-json-script-pre-serialized-json-strings/) (2023-07-02)
-* [Python Type Hints - Modernized error messages in Mypy 1.4.0](https://adamj.eu/tech/2023/06/26/python-type-hints-modernized-error-messages-mypy-1.4.0/) (2023-06-26)
