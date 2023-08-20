@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: Output just the current branch name](https://adamj.eu/tech/2023/08/20/git-output-just-current-branch-name/) (2023-08-20)
 * [Django: The perils of string_if_invalid in templates](https://adamj.eu/tech/2023/08/09/django-perils-string-if-invalid/) (2023-08-09)
 * [Python: Profile a section of code with cProfile](https://adamj.eu/tech/2023/07/23/python-profile-section-cprofile/) (2023-07-23)
 * [Python type hints: How to pass Any for unused parameters in tests](https://adamj.eu/tech/2023/07/15/python-type-hints-pass-any-unused-parameters-tests/) (2023-07-15)
 * [Django: Clean up unused code with Vulture](https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/) (2023-07-12)
-* [Django: Flush out test flakiness by randomly ordering QuerySets](https://adamj.eu/tech/2023/07/04/django-test-random-order-querysets/) (2023-07-04)
