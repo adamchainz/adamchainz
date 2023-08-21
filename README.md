@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Docker: Clean up unused stuff on your development machine](https://adamj.eu/tech/2023/08/21/docker-clean-up/) (2023-08-21)
 * [Git: Output the top-level directory of the current repository](https://adamj.eu/tech/2023/08/21/git-output-root-directory/) (2023-08-21)
 * [Git: Output just the current branch name](https://adamj.eu/tech/2023/08/20/git-output-just-current-branch-name/) (2023-08-20)
 * [Django: The perils of string_if_invalid in templates](https://adamj.eu/tech/2023/08/09/django-perils-string-if-invalid/) (2023-08-09)
 * [Python: Profile a section of code with cProfile](https://adamj.eu/tech/2023/07/23/python-profile-section-cprofile/) (2023-07-23)
-* [Python type hints: How to pass Any for unused parameters in tests](https://adamj.eu/tech/2023/07/15/python-type-hints-pass-any-unused-parameters-tests/) (2023-07-15)
