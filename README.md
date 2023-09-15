@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: Move a template tag library into builtins](https://adamj.eu/tech/2023/09/15/django-move-template-tag-library-builtins/) (2023-09-15)
 * [Introducing flake8-logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/) (2023-09-07)
 * [Git: Clear unreachable files from the .git directory](https://adamj.eu/tech/2023/08/31/git-clear-unreachable-files/) (2023-08-31)
 * [Docker: Clean up unused stuff on your development machine](https://adamj.eu/tech/2023/08/21/docker-clean-up/) (2023-08-21)
 * [Git: Output the top-level directory of the current repository](https://adamj.eu/tech/2023/08/21/git-output-root-directory/) (2023-08-21)
-* [Git: Output just the current branch name](https://adamj.eu/tech/2023/08/20/git-output-just-current-branch-name/) (2023-08-20)
