@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [My fourth appearance on Django Chat](https://adamj.eu/tech/2023/09/21/django-chat-boost-your-git-dx/) (2023-09-21)
 * [Git: Don’t create .gitkeep files, use .gitignore instead](https://adamj.eu/tech/2023/09/18/git-dont-create-gitkeep/) (2023-09-18)
 * [Django: Move a template tag library into builtins](https://adamj.eu/tech/2023/09/15/django-move-template-tag-library-builtins/) (2023-09-15)
 * [Introducing flake8-logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/) (2023-09-07)
 * [Git: Clear unreachable files from the .git directory](https://adamj.eu/tech/2023/08/31/git-clear-unreachable-files/) (2023-08-31)
-* [Docker: Clean up unused stuff on your development machine](https://adamj.eu/tech/2023/08/21/docker-clean-up/) (2023-08-21)
