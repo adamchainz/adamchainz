@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: Force push safely with --force-with-lease and --force-if-includes](https://adamj.eu/tech/2023/10/31/git-force-push-safely/) (2023-10-31)
 * [Git: Show a commit message or subject](https://adamj.eu/tech/2023/10/30/git-show-commit-message-subject/) (2023-10-30)
 * [Shell commands to copy to clipboard](https://adamj.eu/tech/2023/10/30/shell-copy-to-clipboard/) (2023-10-30)
 * [Git: Rebase an old branch incrementally](https://adamj.eu/tech/2023/10/18/git-rebase-branch-incrementally/) (2023-10-18)
 * [Boost Your DX bundle deal](https://adamj.eu/tech/2023/10/16/boost-your-dx-bundle-deal/) (2023-10-16)
-* [“Boost Your Git DX” out now](https://adamj.eu/tech/2023/10/04/boost-your-git-dx-out-now/) (2023-10-04)
