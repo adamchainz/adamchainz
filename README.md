@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: Show a commit message or subject](https://adamj.eu/tech/2023/10/30/git-show-commit-message-subject/) (2023-10-30)
+* [Shell commands to copy to clipboard](https://adamj.eu/tech/2023/10/30/shell-copy-to-clipboard/) (2023-10-30)
 * [Git: Rebase an old branch incrementally](https://adamj.eu/tech/2023/10/18/git-rebase-branch-incrementally/) (2023-10-18)
 * [Boost Your DX bundle deal](https://adamj.eu/tech/2023/10/16/boost-your-dx-bundle-deal/) (2023-10-16)
 * [“Boost Your Git DX” out now](https://adamj.eu/tech/2023/10/04/boost-your-git-dx-out-now/) (2023-10-04)
-* [Git: Show the initial (root) commit](https://adamj.eu/tech/2023/09/30/git-show-initial-root-commit/) (2023-09-30)
-* [My fourth appearance on Django Chat](https://adamj.eu/tech/2023/09/21/django-chat-boost-your-git-dx/) (2023-09-21)
