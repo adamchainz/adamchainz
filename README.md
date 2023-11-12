@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
-* [My appearance on the PyBites Podcast](https://adamj.eu/tech/2023/11/13/pybites-podcast-139/) (2023-11-13)
 * [My appearance on The Real Python Podcast 179](https://adamj.eu/tech/2023/11/09/real-python-podcast-179/) (2023-11-09)
 * [Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries](https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/) (2023-11-09)
 * [Git: Show commits that come after](https://adamj.eu/tech/2023/11/02/git-log-commits-after/) (2023-11-02)
 * [GitHub Actions: Faster Python runs with cached virtual environments](https://adamj.eu/tech/2023/11/02/github-actions-faster-python-virtual-environments/) (2023-11-02)
+* [Git: Force push safely with --force-with-lease and --force-if-includes](https://adamj.eu/tech/2023/10/31/git-force-push-safely/) (2023-10-31)
