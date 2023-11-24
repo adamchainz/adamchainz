@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: Undo a rebase with git reflog](https://adamj.eu/tech/2023/11/24/git-undo-rebase/) (2023-11-24)
 * [Django-related Deals for Black Friday and Cyber Monday 2023](https://adamj.eu/tech/2023/11/20/django-black-friday-deals-2023/) (2023-11-20)
 * [Django: Stop a backgrounded runserver with lsof](https://adamj.eu/tech/2023/11/19/django-stop-backgrounded-runserver/) (2023-11-19)
 * [My appearance on The Python Show](https://adamj.eu/tech/2023/11/17/python-show-22/) (2023-11-17)
 * [My appearance on the PyBites Podcast](https://adamj.eu/tech/2023/11/13/pybites-podcast-139/) (2023-11-13)
-* [My appearance on The Real Python Podcast 179](https://adamj.eu/tech/2023/11/09/real-python-podcast-179/) (2023-11-09)
