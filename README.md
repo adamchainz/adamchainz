@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: Fix version 5.0’s URLField.assume_scheme warnings](https://adamj.eu/tech/2023/12/07/django-fix-urlfield-assume-scheme-warnings/) (2023-12-07)
 * [Git: Enable denser git status output with --short or status.short](https://adamj.eu/tech/2023/12/07/git-denser-git-status-short/) (2023-12-07)
 * [Git: Undo a rebase with git reflog](https://adamj.eu/tech/2023/11/24/git-undo-rebase/) (2023-11-24)
 * [Django-related Deals for Black Friday and Cyber Monday 2023](https://adamj.eu/tech/2023/11/20/django-black-friday-deals-2023/) (2023-11-20)
 * [Django: Stop a backgrounded runserver with lsof](https://adamj.eu/tech/2023/11/19/django-stop-backgrounded-runserver/) (2023-11-19)
-* [My appearance on The Python Show](https://adamj.eu/tech/2023/11/17/python-show-22/) (2023-11-17)
