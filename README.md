@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: Detect the global privacy control signal](https://adamj.eu/tech/2023/12/27/django-global-privacy-control/) (2023-12-27)
 * [Django: Sanitize incoming HTML fragments with nh3](https://adamj.eu/tech/2023/12/13/django-sanitize-incoming-html-nh3/) (2023-12-13)
 * [Django Quiz 2023](https://adamj.eu/tech/2023/12/11/django-quiz-2023/) (2023-12-11)
 * [Django: Defer a model field by default](https://adamj.eu/tech/2023/12/11/django-always-defer-a-field/) (2023-12-11)
 * [Django: Fix version 5.0’s URLField.assume_scheme warnings](https://adamj.eu/tech/2023/12/07/django-fix-urlfield-assume-scheme-warnings/) (2023-12-07)
-* [Git: Enable denser git status output with --short or status.short](https://adamj.eu/tech/2023/12/07/git-denser-git-status-short/) (2023-12-07)
