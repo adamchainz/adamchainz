@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Boost Your DX bundle deal update](https://adamj.eu/tech/2023/12/29/boost-your-dx-bundle-deal-update/) (2023-12-29)
 * [Git: Improve conflict display with the zdiff3 style](https://adamj.eu/tech/2023/12/29/git-conflict-display-zdiff3/) (2023-12-29)
 * [Django: Detect the global privacy control signal](https://adamj.eu/tech/2023/12/27/django-global-privacy-control/) (2023-12-27)
 * [Django: Sanitize incoming HTML fragments with nh3](https://adamj.eu/tech/2023/12/13/django-sanitize-incoming-html-nh3/) (2023-12-13)
 * [Django Quiz 2023](https://adamj.eu/tech/2023/12/11/django-quiz-2023/) (2023-12-11)
-* [Django: Defer a model field by default](https://adamj.eu/tech/2023/12/11/django-always-defer-a-field/) (2023-12-11)
