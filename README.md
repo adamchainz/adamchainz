@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Boost Your Django DX update out now](https://adamj.eu/tech/2024/01/17/byddx-update/) (2024-01-17)
 * [PostgreSQL: Full text search with the “websearch” syntax](https://adamj.eu/tech/2024/01/03/postgresql-full-text-search-websearch/) (2024-01-03)
 * [Boost Your DX bundle deal update](https://adamj.eu/tech/2023/12/29/boost-your-dx-bundle-deal-update/) (2023-12-29)
 * [Git: Improve conflict display with the zdiff3 style](https://adamj.eu/tech/2023/12/29/git-conflict-display-zdiff3/) (2023-12-29)
 * [Django: Detect the global privacy control signal](https://adamj.eu/tech/2023/12/27/django-global-privacy-control/) (2023-12-27)
-* [Django: Sanitize incoming HTML fragments with nh3](https://adamj.eu/tech/2023/12/13/django-sanitize-incoming-html-nh3/) (2023-12-13)
