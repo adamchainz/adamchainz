@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: the basics of git bisect](https://adamj.eu/tech/2024/01/29/git-bisect-basics/) (2024-01-29)
 * [pre-commit: Block files based on name with a custom “fail” hook](https://adamj.eu/tech/2024/01/24/pre-commit-fail-hook/) (2024-01-24)
 * [Git: Improve diff generation with diff.algorithm=histogram](https://adamj.eu/tech/2024/01/18/git-improve-diff-histogram/) (2024-01-18)
 * [Boost Your Django DX update out now](https://adamj.eu/tech/2024/01/17/byddx-update/) (2024-01-17)
 * [PostgreSQL: Full text search with the “websearch” syntax](https://adamj.eu/tech/2024/01/03/postgresql-full-text-search-websearch/) (2024-01-03)
-* [Boost Your DX bundle deal update](https://adamj.eu/tech/2023/12/29/boost-your-dx-bundle-deal-update/) (2023-12-29)
