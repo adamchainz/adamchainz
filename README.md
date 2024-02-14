@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Shell commands to paste from the clipboard](https://adamj.eu/tech/2024/02/13/shell-paste-from-clipboard/) (2024-02-13)
 * [Django: Join the community on Mastodon](https://adamj.eu/tech/2024/02/10/django-join-community-mastodon/) (2024-02-10)
 * [Git: the basics of git bisect](https://adamj.eu/tech/2024/01/29/git-bisect-basics/) (2024-01-29)
 * [pre-commit: Block files based on name with a custom “fail” hook](https://adamj.eu/tech/2024/01/24/pre-commit-fail-hook/) (2024-01-24)
 * [Git: Improve diff generation with diff.algorithm=histogram](https://adamj.eu/tech/2024/01/18/git-improve-diff-histogram/) (2024-01-18)
-* [Boost Your Django DX update out now](https://adamj.eu/tech/2024/01/17/byddx-update/) (2024-01-17)
