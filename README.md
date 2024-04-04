@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Boost Your Git DX update out now](https://adamj.eu/tech/2024/04/04/bygdx-update/) (2024-04-04)
 * [Django: Write-up on optimizing the system check framework](https://adamj.eu/tech/2024/03/23/django-optimizing-system-checks/) (2024-03-23)
 * [Django: Fuss-free use of Homebrew GDAL/GEOS libraries on macOS](https://adamj.eu/tech/2024/03/20/django-homebrew-gdal-geos/) (2024-03-20)
 * [Shell commands to paste from the clipboard](https://adamj.eu/tech/2024/02/13/shell-paste-from-clipboard/) (2024-02-13)
 * [Django: Join the community on Mastodon](https://adamj.eu/tech/2024/02/10/django-join-community-mastodon/) (2024-02-10)
-* [Git: the basics of git bisect](https://adamj.eu/tech/2024/01/29/git-bisect-basics/) (2024-01-29)
