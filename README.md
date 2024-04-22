@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: Show the first tag containing a commit SHA](https://adamj.eu/tech/2024/04/22/git-show-first-containing-tag/) (2024-04-22)
 * [Boost Your Git DX update out now](https://adamj.eu/tech/2024/04/04/bygdx-update/) (2024-04-04)
 * [Django: Write-up on optimizing the system check framework](https://adamj.eu/tech/2024/03/23/django-optimizing-system-checks/) (2024-03-23)
 * [Django: Fuss-free use of Homebrew GDAL/GEOS libraries on macOS](https://adamj.eu/tech/2024/03/20/django-homebrew-gdal-geos/) (2024-03-20)
 * [Shell commands to paste from the clipboard](https://adamj.eu/tech/2024/02/13/shell-paste-from-clipboard/) (2024-02-13)
-* [Django: Join the community on Mastodon](https://adamj.eu/tech/2024/02/10/django-join-community-mastodon/) (2024-02-10)
