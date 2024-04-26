@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: Diffing unit tests to keep a copy-pasted code in sync](https://adamj.eu/tech/2024/04/26/python-diffing-unit-test/) (2024-04-26)
 * [Python: Make line number paths with inspect](https://adamj.eu/tech/2024/04/25/python-line-number-paths-inspect/) (2024-04-25)
 * [Django: Pinpoint upstream changes with Git](https://adamj.eu/tech/2024/04/24/django-pinpoint-upstream-git/) (2024-04-24)
 * [Git: Show the first tag containing a commit SHA](https://adamj.eu/tech/2024/04/22/git-show-first-containing-tag/) (2024-04-22)
 * [Boost Your Git DX update out now](https://adamj.eu/tech/2024/04/04/bygdx-update/) (2024-04-04)
-* [Django: Write-up on optimizing the system check framework](https://adamj.eu/tech/2024/03/23/django-optimizing-system-checks/) (2024-03-23)
