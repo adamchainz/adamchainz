@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: An admin extension to prevent state leaking between requests](https://adamj.eu/tech/2024/04/29/django-admin-prevent-leaking-requests/) (2024-04-29)
 * [Python: Diffing unit tests to keep a copy-pasted code in sync](https://adamj.eu/tech/2024/04/26/python-diffing-unit-test/) (2024-04-26)
 * [Python: Make line number paths with inspect](https://adamj.eu/tech/2024/04/25/python-line-number-paths-inspect/) (2024-04-25)
 * [Django: Pinpoint upstream changes with Git](https://adamj.eu/tech/2024/04/24/django-pinpoint-upstream-git/) (2024-04-24)
 * [Git: Show the first tag containing a commit SHA](https://adamj.eu/tech/2024/04/22/git-show-first-containing-tag/) (2024-04-22)
-* [Boost Your Git DX update out now](https://adamj.eu/tech/2024/04/04/bygdx-update/) (2024-04-04)
