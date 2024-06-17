@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: Import by string with pkgutil.resolve_name()](https://adamj.eu/tech/2024/06/17/python-import-by-string/) (2024-06-17)
 * [Python: Mock an inner import](https://adamj.eu/tech/2024/05/17/python-mock-inner-import/) (2024-05-17)
 * [Python: Show all subclasses of a class](https://adamj.eu/tech/2024/05/10/python-all-subclasses/) (2024-05-10)
 * [Django: Introducing django-harlequin, a launcher for Terminal-based SQL IDE Harlequin](https://adamj.eu/tech/2024/05/07/django-harlequin/) (2024-05-07)
 * [Django: An admin extension to prevent state leaking between requests](https://adamj.eu/tech/2024/04/29/django-admin-prevent-leaking-requests/) (2024-04-29)
-* [Python: Diffing unit tests to keep a copy-pasted code in sync](https://adamj.eu/tech/2024/04/26/python-diffing-unit-test/) (2024-04-26)
