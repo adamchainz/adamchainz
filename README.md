@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: avoid “useless use of .all()”](https://adamj.eu/tech/2024/08/31/django-usless-use-of-all/) (2024-08-31)
 * [Django: rotate your secret key, fast or slow](https://adamj.eu/tech/2024/08/30/django-rotate-secret-key/) (2024-08-30)
 * [Python: profile total memory allocated with tracemalloc](https://adamj.eu/tech/2024/08/30/python-profile-total-memory-tracemalloc/) (2024-08-30)
 * [Django: create sub-commands within a management command](https://adamj.eu/tech/2024/08/14/django-management-command-sub-commands/) (2024-08-14)
 * [Django: Test for pending migrations](https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/) (2024-06-23)
-* [Python: Fail in three characters with 1/0](https://adamj.eu/tech/2024/06/18/python-fail-1-over-0/) (2024-06-18)
