@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: build a Microsoft Teams bot](https://adamj.eu/tech/2024/09/04/django-microsoft-teams-bot/) (2024-09-04)
 * [Git: generate statistics with shortlog](https://adamj.eu/tech/2024/09/03/git-quick-stats-shortlog/) (2024-09-03)
 * [Git: avoid reset --hard, use reset --keep instead](https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/) (2024-09-02)
 * [Django: avoid “useless use of .all()”](https://adamj.eu/tech/2024/08/31/django-usless-use-of-all/) (2024-08-31)
 * [Django: rotate your secret key, fast or slow](https://adamj.eu/tech/2024/08/30/django-rotate-secret-key/) (2024-08-30)
-* [Python: profile total memory allocated with tracemalloc](https://adamj.eu/tech/2024/08/30/python-profile-total-memory-tracemalloc/) (2024-08-30)
