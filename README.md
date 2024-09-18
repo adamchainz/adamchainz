@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: my new uv setup for development](https://adamj.eu/tech/2024/09/18/python-uv-development-setup/) (2024-09-18)
+* [Django: speed up tests slightly by disabling update_last_login](https://adamj.eu/tech/2024/09/18/django-test-speed-last-login/) (2024-09-18)
 * [Django: hoist repeated decorator definitions](https://adamj.eu/tech/2024/09/08/django-repeated-decorators/) (2024-09-08)
 * [Django: a pattern for settings-configured API clients](https://adamj.eu/tech/2024/09/05/django-settings-api-clients/) (2024-09-05)
 * [Django: build a Microsoft Teams bot](https://adamj.eu/tech/2024/09/04/django-microsoft-teams-bot/) (2024-09-04)
-* [Git: generate statistics with shortlog](https://adamj.eu/tech/2024/09/03/git-quick-stats-shortlog/) (2024-09-03)
-* [Git: avoid reset --hard, use reset --keep instead](https://adamj.eu/tech/2024/09/02/git-avoid-reset-hard-use-keep/) (2024-09-02)
