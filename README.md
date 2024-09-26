@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: Introducing Djade, a template formatter](https://adamj.eu/tech/2024/09/26/django-introducing-djade/) (2024-09-26)
 * [Git: find when a commit was reverted or reapplied](https://adamj.eu/tech/2024/09/18/git-find-commit-reverted-reapplied/) (2024-09-18)
 * [Python: my new uv setup for development](https://adamj.eu/tech/2024/09/18/python-uv-development-setup/) (2024-09-18)
 * [Django: speed up tests slightly by disabling update_last_login](https://adamj.eu/tech/2024/09/18/django-test-speed-last-login/) (2024-09-18)
 * [Django: hoist repeated decorator definitions](https://adamj.eu/tech/2024/09/08/django-repeated-decorators/) (2024-09-08)
-* [Django: a pattern for settings-configured API clients](https://adamj.eu/tech/2024/09/05/django-settings-api-clients/) (2024-09-05)
