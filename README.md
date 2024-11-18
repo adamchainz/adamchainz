@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django-related Deals for Black Friday 2024](https://adamj.eu/tech/2024/11/18/django-black-friday-deals-2024/) (2024-11-18)
+* [Boost Your Django DX updated again](https://adamj.eu/tech/2024/11/18/byddx-updated-again/) (2024-11-18)
 * [Django: Introducing Djade, a template formatter](https://adamj.eu/tech/2024/09/26/django-introducing-djade/) (2024-09-26)
 * [Git: find when a commit was reverted or reapplied](https://adamj.eu/tech/2024/09/18/git-find-commit-reverted-reapplied/) (2024-09-18)
 * [Python: my new uv setup for development](https://adamj.eu/tech/2024/09/18/python-uv-development-setup/) (2024-09-18)
-* [Django: speed up tests slightly by disabling update_last_login](https://adamj.eu/tech/2024/09/18/django-test-speed-last-login/) (2024-09-18)
-* [Django: hoist repeated decorator definitions](https://adamj.eu/tech/2024/09/08/django-repeated-decorators/) (2024-09-08)
