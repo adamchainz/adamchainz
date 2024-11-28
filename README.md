@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: launch pdb in templates with a custom {% breakpoint %} tag](https://adamj.eu/tech/2024/11/28/django-template-breakpoint/) (2024-11-28)
 * [Django: fix a view using a debugger with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/) (2024-11-26)
 * [Django: find ghost tables without associated models](https://adamj.eu/tech/2024/11/21/django-tables-without-models/) (2024-11-21)
 * [Git: count commits with rev-list](https://adamj.eu/tech/2024/11/20/git-count-commits-rev-list/) (2024-11-20)
 * [Django-related Deals for Black Friday 2024](https://adamj.eu/tech/2024/11/18/django-black-friday-deals-2024/) (2024-11-18)
-* [Boost Your Django DX updated again](https://adamj.eu/tech/2024/11/18/byddx-updated-again/) (2024-11-18)
