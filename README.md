@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django Quiz 2024](https://adamj.eu/tech/2024/12/18/django-quiz-2024/) (2024-12-18)
 * [Django: launch pdb when a given SQL query runs](https://adamj.eu/tech/2024/12/05/django-sql-breakpoint/) (2024-12-05)
 * [Django: launch pdb in templates with a custom {% breakpoint %} tag](https://adamj.eu/tech/2024/11/28/django-template-breakpoint/) (2024-11-28)
 * [Django: fix a view using pdb with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/) (2024-11-26)
 * [Django: find ghost tables without associated models](https://adamj.eu/tech/2024/11/21/django-tables-without-models/) (2024-11-21)
-* [Git: count commits with rev-list](https://adamj.eu/tech/2024/11/20/git-count-commits-rev-list/) (2024-11-20)
