@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: create temporary files and directories in unittest](https://adamj.eu/tech/2024/12/30/python-temporary-files-directories-unittest/) (2024-12-30)
 * [Django: Fail in templates with {% url '' %}](https://adamj.eu/tech/2024/12/27/django-template-fail-url/) (2024-12-27)
 * [Django Quiz 2024](https://adamj.eu/tech/2024/12/18/django-quiz-2024/) (2024-12-18)
 * [Django: launch pdb when a given SQL query runs](https://adamj.eu/tech/2024/12/05/django-sql-breakpoint/) (2024-12-05)
 * [Django: launch pdb in templates with a custom {% breakpoint %} tag](https://adamj.eu/tech/2024/11/28/django-template-breakpoint/) (2024-11-28)
-* [Django: fix a view using pdb with breakpoint()](https://adamj.eu/tech/2024/11/26/django-fix-view-using-pdb/) (2024-11-26)
