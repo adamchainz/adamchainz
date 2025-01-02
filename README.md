@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: debug unraisable exceptions with Rich](https://adamj.eu/tech/2025/01/02/python-unraisiable-exceptions/) (2025-01-02)
 * [Git: undo a pull](https://adamj.eu/tech/2024/12/31/git-undo-pull-reflog/) (2024-12-31)
 * [Python: spy for changes with sys.monitoring](https://adamj.eu/tech/2024/12/30/python-spy-changes-sys-monitoring/) (2024-12-30)
 * [Python: create temporary files and directories in unittest](https://adamj.eu/tech/2024/12/30/python-temporary-files-directories-unittest/) (2024-12-30)
 * [Django: Fail in templates with {% url '' %}](https://adamj.eu/tech/2024/12/27/django-template-fail-url/) (2024-12-27)
-* [Django Quiz 2024](https://adamj.eu/tech/2024/12/18/django-quiz-2024/) (2024-12-18)
