@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: silence “Exception ignored in ... OutputWrapper”](https://adamj.eu/tech/2025/01/08/django-silence-exception-ignored-outputwrapper/) (2025-01-08)
 * [Python: test for unraisable exceptions with unittest.mock](https://adamj.eu/tech/2025/01/07/python-test-unraisable-exceptions/) (2025-01-07)
 * [Git: force colourization with color.ui or --color](https://adamj.eu/tech/2025/01/03/git-force-colourization/) (2025-01-03)
 * [Python: debug unraisable exceptions with Rich](https://adamj.eu/tech/2025/01/02/python-unraisiable-exceptions/) (2025-01-02)
 * [Git: undo a pull](https://adamj.eu/tech/2024/12/31/git-undo-pull-reflog/) (2024-12-31)
-* [Python: spy for changes with sys.monitoring](https://adamj.eu/tech/2024/12/30/python-spy-changes-sys-monitoring/) (2024-12-30)
