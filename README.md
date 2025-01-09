@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: render JavaScript import maps in templates](https://adamj.eu/tech/2025/01/09/django-import-maps/) (2025-01-09)
 * [Firefox: disable an extension that’s spamming devtools logs](https://adamj.eu/tech/2025/01/09/firefox-disable-extension/) (2025-01-09)
 * [Django: silence “Exception ignored in ... OutputWrapper”](https://adamj.eu/tech/2025/01/08/django-silence-exception-ignored-outputwrapper/) (2025-01-08)
 * [Python: test for unraisable exceptions with unittest.mock](https://adamj.eu/tech/2025/01/07/python-test-unraisable-exceptions/) (2025-01-07)
 * [Git: force colourization with color.ui or --color](https://adamj.eu/tech/2025/01/03/git-force-colourization/) (2025-01-03)
-* [Python: debug unraisable exceptions with Rich](https://adamj.eu/tech/2025/01/02/python-unraisiable-exceptions/) (2025-01-02)
