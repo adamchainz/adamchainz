@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Boost Your Git DX second update out now](https://adamj.eu/tech/2025/01/28/bygdx-second-update/) (2025-01-28)
 * [Shell: benchmark the difference between two Git branches with hyperfine](https://adamj.eu/tech/2025/01/14/shell-benchmark-branches-hyperfine/) (2025-01-14)
 * [Python: fuss-free use of Homebrew libraries for package dependencies](https://adamj.eu/tech/2025/01/10/python-homebrew-libraries/) (2025-01-10)
 * [Django: render JavaScript import maps in templates](https://adamj.eu/tech/2025/01/09/django-import-maps/) (2025-01-09)
 * [Firefox: disable an extension that’s spamming devtools logs](https://adamj.eu/tech/2025/01/09/firefox-disable-extension/) (2025-01-09)
-* [Django: silence “Exception ignored in ... OutputWrapper”](https://adamj.eu/tech/2025/01/08/django-silence-exception-ignored-outputwrapper/) (2025-01-08)
