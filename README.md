@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/) (2025-04-07)
 * [Zsh: clear the “You have mail“ message](https://adamj.eu/tech/2025/02/04/zsh-clear-mail-message/) (2025-02-04)
 * [Boost Your Git DX now has a free sample](https://adamj.eu/tech/2025/02/03/bygdx-sample/) (2025-02-03)
 * [Boost Your Git DX second update out now](https://adamj.eu/tech/2025/01/28/bygdx-second-update/) (2025-01-28)
 * [Shell: benchmark the difference between two Git branches with hyperfine](https://adamj.eu/tech/2025/01/14/shell-benchmark-branches-hyperfine/) (2025-01-14)
-* [Python: fuss-free use of Homebrew libraries for package dependencies](https://adamj.eu/tech/2025/01/10/python-homebrew-libraries/) (2025-01-10)
