@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: model field choices that can change without a database migration](https://adamj.eu/tech/2025/05/03/django-choices-change-without-migration/) (2025-05-03)
 * [Python type hints: mixin classes](https://adamj.eu/tech/2025/05/01/python-type-hints-mixin-classes/) (2025-05-01)
 * [GitHub: render GitHub-Flavored Markdown with the API](https://adamj.eu/tech/2025/04/16/github-render-markdown-api/) (2025-04-16)
 * [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/) (2025-04-07)
 * [Zsh: clear the “You have mail“ message](https://adamj.eu/tech/2025/02/04/zsh-clear-mail-message/) (2025-02-04)
-* [Boost Your Git DX now has a free sample](https://adamj.eu/tech/2025/02/03/bygdx-sample/) (2025-02-03)
