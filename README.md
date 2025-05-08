@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Docker: disable “What’s next” adverts](https://adamj.eu/tech/2025/05/08/docker-disable-adverts/) (2025-05-08)
 * [pre-commit: install with uv](https://adamj.eu/tech/2025/05/07/pre-commit-install-uv/) (2025-05-07)
 * [Git: fix a filename case collision](https://adamj.eu/tech/2025/05/05/git-fix-filename-case-collision/) (2025-05-05)
 * [Docker: remove obsolete version keys from Compose files](https://adamj.eu/tech/2025/05/05/docker-remove-obsolete-compose-version/) (2025-05-05)
 * [Django: model field choices that can change without a database migration](https://adamj.eu/tech/2025/05/03/django-choices-change-without-migration/) (2025-05-03)
-* [Python type hints: mixin classes](https://adamj.eu/tech/2025/05/01/python-type-hints-mixin-classes/) (2025-05-01)
