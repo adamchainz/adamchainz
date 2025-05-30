@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: sharing common tests in unittest](https://adamj.eu/tech/2025/05/30/python-unittest-common-tests/) (2025-05-30)
 * [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) (2025-05-20)
 * [Git: list checked-in symlinks](https://adamj.eu/tech/2025/05/19/git-list-symlinks/) (2025-05-19)
 * [GitHub Actions: avoid double runs from on: [push, pull_request]](https://adamj.eu/tech/2025/05/14/github-actions-avoid-simple-on/) (2025-05-14)
 * [Docker: disable “What’s next” adverts](https://adamj.eu/tech/2025/05/08/docker-disable-adverts/) (2025-05-08)
-* [pre-commit: install with uv](https://adamj.eu/tech/2025/05/07/pre-commit-install-uv/) (2025-05-07)
