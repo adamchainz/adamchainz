@@ -11,31 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v4
       id: setup_python
       with:
-        python-version: '3.11'
+        python-version: '3.13'
 
-    - name: Cache virtualenv
-      uses: actions/cache@v3
+    - name: Set up uv
+      uses: astral-sh/setup-uv@v6
       with:
-        key: venv-${{ runner.os }}-${{ steps.setup_python.outputs.python-version}}-${{ hashFiles('requirements.txt') }}
-        path: venv
-
-    - name: Install dependencies
-      run: |
-        python -m venv venv
-        source venv/bin/activate
-        python -m pip install -r requirements.txt
-        echo "$VIRTUAL_ENV/bin" >> $GITHUB_PATH
-        echo "VIRTUAL_ENV=$VIRTUAL_ENV" >> $GITHUB_ENV
+        enable-cache: true
 
     - name: Update README
       run: |-
-        python build_readme.py
+        ./build_readme.py
         cat README.md
 
     - name: Commit and push if README changed
