@@ -17,7 +17,7 @@ from bs4 import BeautifulSoup
 def main():
     chunks = []
     chunks.extend(get_bio())
-    chunks.append('')
+    chunks.append("")
     chunks.extend(get_latest_posts())
 
     readme = Path(__file__).parent / "README.md"
@@ -43,7 +43,7 @@ def get_latest_posts():
     posts = feedparser.parse("https://adamj.eu/tech/atom.xml")["entries"][:5]
     chunks.extend(
         [
-            f'* [{post["title"]}]({post["link"]}) ({post["updated"].split("T")[0]})'
+            f"* [{post['title']}]({post['link']}) ({post['updated'].split('T')[0]})"
             for post in posts
         ]
     )
