@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: hide the development server warning](https://adamj.eu/tech/2025/06/27/django-hide-development-server-warning/) (2025-06-27)
 * [Django: Introducing inline-snapshot-django](https://adamj.eu/tech/2025/06/24/django-introducing-inline-snapshot-django/) (2025-06-24)
 * [Python: sharing common tests in unittest](https://adamj.eu/tech/2025/05/30/python-unittest-common-tests/) (2025-05-30)
 * [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) (2025-05-20)
 * [Git: list checked-in symlinks](https://adamj.eu/tech/2025/05/19/git-list-symlinks/) (2025-05-19)
-* [GitHub Actions: avoid double runs from on: [push, pull_request]](https://adamj.eu/tech/2025/05/14/github-actions-avoid-simple-on/) (2025-05-14)
