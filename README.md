@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: find the largest commits](https://adamj.eu/tech/2025/07/20/git-find-largest-commits/) (2025-07-20)
+* [Python: fix BrokenPipeError when piping output to other commands](https://adamj.eu/tech/2025/07/20/python-fix-brokenpipeerror/) (2025-07-20)
 * [Git: share a full repository as a file with git fast-export](https://adamj.eu/tech/2025/07/15/git-share-fast-export/) (2025-07-15)
 * [Django: hide the development server warning](https://adamj.eu/tech/2025/06/27/django-hide-development-server-warning/) (2025-06-27)
 * [Django: Introducing inline-snapshot-django](https://adamj.eu/tech/2025/06/24/django-introducing-inline-snapshot-django/) (2025-06-24)
-* [Python: sharing common tests in unittest](https://adamj.eu/tech/2025/05/30/python-unittest-common-tests/) (2025-05-30)
-* [Python: a quick cProfile recipe with pstats](https://adamj.eu/tech/2025/05/20/python-quick-cprofile-recipe-pstats/) (2025-05-20)
