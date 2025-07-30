@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: check a package version with importlib.metadata.version()](https://adamj.eu/tech/2025/07/30/python-check-package-version-importlib-metadata-version/) (2025-07-30)
+* [Django: split ModelAdmin.get_queryset() by view](https://adamj.eu/tech/2025/07/30/django-modeladmin-split-get-queryset/) (2025-07-30)
 * [Django: iterate through all registered URL patterns](https://adamj.eu/tech/2025/07/22/django-iterate-url-patterns/) (2025-07-22)
 * [Git: find the largest commits](https://adamj.eu/tech/2025/07/20/git-find-largest-commits/) (2025-07-20)
 * [Python: fix BrokenPipeError when piping output to other commands](https://adamj.eu/tech/2025/07/20/python-fix-brokenpipeerror/) (2025-07-20)
-* [Git: share a full repository as a file with git fast-export](https://adamj.eu/tech/2025/07/15/git-share-fast-export/) (2025-07-15)
-* [Django: hide the development server warning](https://adamj.eu/tech/2025/06/27/django-hide-development-server-warning/) (2025-06-27)
