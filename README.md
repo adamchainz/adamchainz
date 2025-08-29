@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: capture stdout and stderr in unittest](https://adamj.eu/tech/2025/08/29/python-unittest-capture-stdout-stderr/) (2025-08-29)
+* [Git: count files in a repository](https://adamj.eu/tech/2025/08/29/git-count-files/) (2025-08-29)
 * [Django: write a custom URL path converter to match given strings](https://adamj.eu/tech/2025/08/01/django-custom-url-converter-string/) (2025-08-01)
 * [Python: check a package version with importlib.metadata.version()](https://adamj.eu/tech/2025/07/30/python-check-package-version-importlib-metadata-version/) (2025-07-30)
 * [Django: split ModelAdmin.get_queryset() by view](https://adamj.eu/tech/2025/07/30/django-modeladmin-split-get-queryset/) (2025-07-30)
-* [Django: iterate through all registered URL patterns](https://adamj.eu/tech/2025/07/22/django-iterate-url-patterns/) (2025-07-22)
-* [Git: find the largest commits](https://adamj.eu/tech/2025/07/20/git-find-largest-commits/) (2025-07-20)
