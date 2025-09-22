@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: Introducing django-watchfiles, for more efficient runserver autoreloading](https://adamj.eu/tech/2025/09/22/introducing-django-watchfiles/) (2025-09-22)
 * [Git: check if a commit exists on a given branch](https://adamj.eu/tech/2025/09/03/git-check-commit-exists-on-branch/) (2025-09-03)
 * [Python: fix SyntaxWarning: 'return' in a 'finally' block](https://adamj.eu/tech/2025/08/29/python-fix-syntaxwarning-finally/) (2025-08-29)
 * [Python: capture stdout and stderr in unittest](https://adamj.eu/tech/2025/08/29/python-unittest-capture-stdout-stderr/) (2025-08-29)
 * [Git: count files in a repository](https://adamj.eu/tech/2025/08/29/git-count-files/) (2025-08-29)
-* [Django: write a custom URL path converter to match given strings](https://adamj.eu/tech/2025/08/01/django-custom-url-converter-string/) (2025-08-01)
