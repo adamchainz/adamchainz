@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: Introducing django-http-compression](https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/) (2025-10-10)
 * [Django: Introducing django-watchfiles, for more efficient runserver autoreloading](https://adamj.eu/tech/2025/09/22/introducing-django-watchfiles/) (2025-09-22)
 * [Git: partially cherry-pick a commit](https://adamj.eu/tech/2025/09/08/git-partial-cherry-pick/) (2025-09-08)
 * [Git: check if a commit exists on a given branch](https://adamj.eu/tech/2025/09/03/git-check-commit-exists-on-branch/) (2025-09-03)
 * [Python: fix SyntaxWarning: 'return' in a 'finally' block](https://adamj.eu/tech/2025/08/29/python-fix-syntaxwarning-finally/) (2025-08-29)
-* [Python: capture stdout and stderr in unittest](https://adamj.eu/tech/2025/08/29/python-unittest-capture-stdout-stderr/) (2025-08-29)
