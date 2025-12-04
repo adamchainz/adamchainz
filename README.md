@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) (2025-12-03)
 * [Django: implement HTTP bearer authentication](https://adamj.eu/tech/2025/11/25/django-bearer-authentication/) (2025-11-25)
 * [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) (2025-11-24)
 * [Django-related Deals for Black Friday 2025](https://adamj.eu/tech/2025/11/20/django-black-friday-deals-2025/) (2025-11-20)
 * [“Boost Your GitHub DX” out now](https://adamj.eu/tech/2025/11/11/boost-your-github-dx-out-now/) (2025-11-11)
-* [Django: Introducing django-http-compression](https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/) (2025-10-10)
