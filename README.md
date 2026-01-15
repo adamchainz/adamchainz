@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: introducing tprof, a targeting profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/) (2026-01-14)
 * [Django Quiz 2025](https://adamj.eu/tech/2026/01/03/django-quiz-2025/) (2026-01-03)
 * [Django: implement HTTP basic authentication](https://adamj.eu/tech/2025/12/08/django-basic-authentication/) (2025-12-08)
 * [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) (2025-12-03)
 * [Django: implement HTTP bearer authentication](https://adamj.eu/tech/2025/11/25/django-bearer-authentication/) (2025-11-25)
-* [GitHub: top commands in gh, the official GitHub CLI](https://adamj.eu/tech/2025/11/24/github-top-gh-cli-commands/) (2025-11-24)
