@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: profile memory usage with Memray](https://adamj.eu/tech/2026/01/29/django-profile-memray/) (2026-01-29)
 * [Zsh: select generated files with (om[1]) glob qualifiers](https://adamj.eu/tech/2026/01/27/zsh-om1-glob-qualifiers/) (2026-01-27)
 * [Python: introducing tprof, a targeting profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/) (2026-01-14)
 * [Django Quiz 2025](https://adamj.eu/tech/2026/01/03/django-quiz-2025/) (2026-01-03)
 * [Django: implement HTTP basic authentication](https://adamj.eu/tech/2025/12/08/django-basic-authentication/) (2025-12-08)
-* [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/) (2025-12-03)
