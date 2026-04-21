@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: fixing a memory “leak” from Python 3.14’s incremental garbage collection](https://adamj.eu/tech/2026/04/20/django-python-3.14-incremental-gc/) (2026-04-20)
 * [Python: introducing profiling-explorer](https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/) (2026-04-03)
 * [Python: introducing icu4py, bindings to the Unicode ICU library](https://adamj.eu/tech/2026/02/09/python-introducing-icu4py/) (2026-02-09)
 * [Django: profile memory usage with Memray](https://adamj.eu/tech/2026/01/29/django-profile-memray/) (2026-01-29)
 * [Zsh: select generated files with (om[1]) glob qualifiers](https://adamj.eu/tech/2026/01/27/zsh-om1-glob-qualifiers/) (2026-01-27)
-* [Python: introducing tprof, a targeting profiler](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/) (2026-01-14)
