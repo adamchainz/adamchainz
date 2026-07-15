@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: introducing django-orjson](https://adamj.eu/tech/2026/07/15/introducing-django-orjson/) (2026-07-15)
 * [Python: find all instances of a class with gc.get_objects()](https://adamj.eu/tech/2026/07/14/python-all-instances-class/) (2026-07-14)
 * [Python: store extra data for objects in a WeakKeyDictionary](https://adamj.eu/tech/2026/06/27/python-weak-key-dict-pattern/) (2026-06-27)
 * [Django: introducing django-integrity-policy](https://adamj.eu/tech/2026/05/31/introducing-django-integrity-policy/) (2026-05-31)
 * [Django: fixing a memory “leak” from Python 3.14’s incremental garbage collection](https://adamj.eu/tech/2026/04/20/django-python-3.14-incremental-gc/) (2026-04-20)
-* [Python: introducing profiling-explorer](https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/) (2026-04-03)
