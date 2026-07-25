@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: release code words up to 6.1](https://adamj.eu/tech/2026/07/24/django-release-code-words-6.1/) (2026-07-24)
 * [Django: introducing django-crawl](https://adamj.eu/tech/2026/07/22/introducing-django-crawl/) (2026-07-22)
 * [Django: introducing django-orjson](https://adamj.eu/tech/2026/07/15/introducing-django-orjson/) (2026-07-15)
 * [Python: find all instances of a class with gc.get_objects()](https://adamj.eu/tech/2026/07/14/python-all-instances-class/) (2026-07-14)
 * [Python: store extra data for objects in a WeakKeyDictionary](https://adamj.eu/tech/2026/06/27/python-weak-key-dict-pattern/) (2026-06-27)
-* [Django: introducing django-integrity-policy](https://adamj.eu/tech/2026/05/31/introducing-django-integrity-policy/) (2026-05-31)
