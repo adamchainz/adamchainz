@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: time-machine 3.3.0 lets your tests time-travel even faster](https://adamj.eu/tech/2026/07/31/python-time-machine-3.3.0/) (2026-07-31)
 * [Python: fix ValueError: day of month directive '%d' may not be used without a year directive](https://adamj.eu/tech/2026/07/29/python-fix-valueerror-day-of-month-directive-may-not-be-used-without-a-year-directive/) (2026-07-29)
 * [Python: fix TypeError: NotImplemented should not be used in a boolean context](https://adamj.eu/tech/2026/07/28/python-fix-typeerror-notimplemented-boolean-context/) (2026-07-28)
 * [Python: inspect interleaved unittest.mock calls with attached mocks](https://adamj.eu/tech/2026/07/27/python-mock-attach-mock/) (2026-07-27)
 * [Python: spy on function calls with unittest.mock’s wraps](https://adamj.eu/tech/2026/07/25/python-spy-unittest-mock-wraps/) (2026-07-25)
-* [Django: release code words up to 6.1](https://adamj.eu/tech/2026/07/24/django-release-code-words-6.1/) (2026-07-24)
