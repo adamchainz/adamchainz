@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: exclude commits by an author in git log with --perl-regexp](https://adamj.eu/tech/2026/08/05/git-log-exclude-author/) (2026-08-05)
 * [Zsh: list recently modified files with (m0) glob qualifiers](https://adamj.eu/tech/2026/08/04/zsh-m0-glob-qualifiers/) (2026-08-04)
 * [Python: how time-machine is O(1) where freezegun is O(n)](https://adamj.eu/tech/2026/08/03/python-time-machine-o1-freezegun-on/) (2026-08-03)
 * [Python: time-machine 3.3.0 lets your tests time-travel even faster](https://adamj.eu/tech/2026/07/31/python-time-machine-3.3.0/) (2026-07-31)
 * [Python: fix ValueError: day of month directive '%d' may not be used without a year directive](https://adamj.eu/tech/2026/07/29/python-fix-valueerror-day-of-month-directive-may-not-be-used-without-a-year-directive/) (2026-07-29)
-* [Python: fix TypeError: NotImplemented should not be used in a boolean context](https://adamj.eu/tech/2026/07/28/python-fix-typeerror-notimplemented-boolean-context/) (2026-07-28)
