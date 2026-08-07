@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Git: my git stash -p optimization in Git 2.55](https://adamj.eu/tech/2026/08/07/git-stash-p-optimization-story/) (2026-08-07)
 * [Git: list files at a given commit with ls-tree](https://adamj.eu/tech/2026/08/07/git-list-files-at-commit/) (2026-08-07)
 * [Zsh: select files with arbitrary code in (e) or + glob qualifiers](https://adamj.eu/tech/2026/08/07/zsh-e-glob-qualifiers/) (2026-08-07)
 * [Git: exclude commits by an author in git log with --perl-regexp](https://adamj.eu/tech/2026/08/05/git-log-exclude-author/) (2026-08-05)
 * [Zsh: list recently modified files with (m0) glob qualifiers](https://adamj.eu/tech/2026/08/04/zsh-m0-glob-qualifiers/) (2026-08-04)
-* [Python: how time-machine is O(1) where freezegun is O(n)](https://adamj.eu/tech/2026/08/03/python-time-machine-o1-freezegun-on/) (2026-08-03)
