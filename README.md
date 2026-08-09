@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: tprof 1.3.0: now with less overhead](https://adamj.eu/tech/2026/08/08/python-tprof-performance/) (2026-08-08)
 * [Django: introducing django-msgspec](https://adamj.eu/tech/2026/08/07/introducing-django-msgspec/) (2026-08-07)
 * [Git: my git stash -p optimization in Git 2.55](https://adamj.eu/tech/2026/08/07/git-stash-p-optimization-story/) (2026-08-07)
 * [Git: list files at a given commit with ls-tree](https://adamj.eu/tech/2026/08/07/git-list-files-at-commit/) (2026-08-07)
 * [Zsh: select files with arbitrary code in (e) or + glob qualifiers](https://adamj.eu/tech/2026/08/07/zsh-e-glob-qualifiers/) (2026-08-07)
-* [Git: exclude commits by an author in git log with --perl-regexp](https://adamj.eu/tech/2026/08/05/git-log-exclude-author/) (2026-08-05)
