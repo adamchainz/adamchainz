@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: fix TypeError: NamedTuple() got an unexpected keyword argument](https://adamj.eu/tech/2026/08/13/python-fix-typeerror-namedtuple-got-an-unexpected-keyword-argument/) (2026-08-13)
 * [Python: introducing emojet, a fast emoji lookup library](https://adamj.eu/tech/2026/08/12/python-introducing-emojet/) (2026-08-12)
 * [Python: tprof 1.3.0: now with less overhead](https://adamj.eu/tech/2026/08/08/python-tprof-performance/) (2026-08-08)
 * [Django: introducing django-msgspec](https://adamj.eu/tech/2026/08/07/introducing-django-msgspec/) (2026-08-07)
 * [Git: my git stash -p optimization in Git 2.55](https://adamj.eu/tech/2026/08/07/git-stash-p-optimization-story/) (2026-08-07)
-* [Git: list files at a given commit with ls-tree](https://adamj.eu/tech/2026/08/07/git-list-files-at-commit/) (2026-08-07)
