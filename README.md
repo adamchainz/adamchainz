@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Zsh: manipulate filenames with modifiers like :r (root) and :e (extension)](https://adamj.eu/tech/2026/08/24/zsh-filename-modifiers/) (2026-08-24)
 * [Django: django-upgrade 1.32.0 out now, with 44 AI-assisted bug fixes](https://adamj.eu/tech/2026/08/18/django-upgrade-1.32.0-44-bug-fixes/) (2026-08-18)
 * [Python: use re.prefixmatch() instead of re.match() from Python 3.15](https://adamj.eu/tech/2026/08/16/python-prefer-prefixmatch-to-match/) (2026-08-16)
 * [Python: fix SyntaxWarning: invalid octal escape sequence](https://adamj.eu/tech/2026/08/14/why-does-python-log-a-warning-for-invalid-octal-escape-sequence/) (2026-08-14)
 * [Python: fix TypeError: NamedTuple() got an unexpected keyword argument](https://adamj.eu/tech/2026/08/13/python-fix-typeerror-namedtuple-got-an-unexpected-keyword-argument/) (2026-08-13)
-* [Python: introducing emojet, a fast emoji lookup library](https://adamj.eu/tech/2026/08/12/python-introducing-emojet/) (2026-08-12)
