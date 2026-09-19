@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Python: join my optimization workshop in Lisbon, 10th October](https://adamj.eu/tech/2026/09/19/python-optimization-workshop-lisbon/) (2026-09-19)
 * [Django: serve the change password well-known URL](https://adamj.eu/tech/2026/09/16/django-change-password-url/) (2026-09-16)
 * [Django: introducing django-mcpz, for making MCP servers](https://adamj.eu/tech/2026/09/15/introducing-django-mcpz/) (2026-09-15)
 * [Zsh: manipulate filenames with modifiers like :r (root) and :e (extension)](https://adamj.eu/tech/2026/08/24/zsh-filename-modifiers/) (2026-08-24)
 * [Django: django-upgrade 1.32.0 out now, with 44 AI-assisted bug fixes](https://adamj.eu/tech/2026/08/18/django-upgrade-1.32.0-44-bug-fixes/) (2026-08-18)
-* [Python: use re.prefixmatch() instead of re.match() from Python 3.15](https://adamj.eu/tech/2026/08/16/python-prefer-prefixmatch-to-match/) (2026-08-16)
