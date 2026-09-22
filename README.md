@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Zsh: find the largest files with the (OL) glob qualifier](https://adamj.eu/tech/2026/09/21/zsh-ol-glob-qualifiers/) (2026-09-21)
 * [macOS: use caffeinate to keep your computer on](https://adamj.eu/tech/2026/09/20/macos-caffeinate/) (2026-09-20)
 * [Python: join my optimization workshop in Lisbon, 10th October](https://adamj.eu/tech/2026/09/19/python-optimization-workshop-lisbon/) (2026-09-19)
 * [Django: serve the change password well-known URL](https://adamj.eu/tech/2026/09/16/django-change-password-url/) (2026-09-16)
 * [Django: introducing django-mcpz, for making MCP servers](https://adamj.eu/tech/2026/09/15/introducing-django-mcpz/) (2026-09-15)
-* [Zsh: manipulate filenames with modifiers like :r (root) and :e (extension)](https://adamj.eu/tech/2026/08/24/zsh-filename-modifiers/) (2026-08-24)
