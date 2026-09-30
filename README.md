@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Zsh: sort globs in natural order with the (n) glob qualifier](https://adamj.eu/tech/2026/09/30/zsh-n-glob-qualifier/) (2026-09-30)
 * [Software Engineering: join my meetup in Lisbon, 8th October](https://adamj.eu/tech/2026/09/28/python-mini-meetup-lisbon/) (2026-09-28)
 * [Zsh: find the largest files with the (OL) glob qualifier](https://adamj.eu/tech/2026/09/21/zsh-ol-glob-qualifiers/) (2026-09-21)
 * [macOS: use caffeinate to keep your computer on](https://adamj.eu/tech/2026/09/20/macos-caffeinate/) (2026-09-20)
 * [Python: join my optimization workshop in Lisbon, 10th October](https://adamj.eu/tech/2026/09/19/python-optimization-workshop-lisbon/) (2026-09-19)
-* [Django: serve the change password well-known URL](https://adamj.eu/tech/2026/09/16/django-change-password-url/) (2026-09-16)
