@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Django: set up its test suite with uv](https://adamj.eu/tech/2026/10/08/django-test-suite-uv/) (2026-10-08)
 * [Zsh: set aside a command with “Escape Q” / push-line](https://adamj.eu/tech/2026/10/06/zsh-push-line/) (2026-10-06)
 * [Zsh: tab complete glob qualifiers](https://adamj.eu/tech/2026/10/02/zsh-glob-qualifier-completion/) (2026-10-02)
 * [Django: serve apple-app-site-association and assetlinks.json](https://adamj.eu/tech/2026/10/02/django-app-links/) (2026-10-02)
 * [Django: serve a security.txt file](https://adamj.eu/tech/2026/10/01/django-security-txt/) (2026-10-01)
-* [Zsh: sort globs in natural order with the (n) glob qualifier](https://adamj.eu/tech/2026/09/30/zsh-n-glob-qualifier/) (2026-09-30)
