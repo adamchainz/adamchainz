@@ -2,8 +2,8 @@
 
 ## Latest blog posts
 
+* [Zsh: glob case-insensitively with the (#i) glob flag and the no_case_glob option](https://adamj.eu/tech/2026/10/30/zsh-case-insensitive-globbing/) (2026-10-30)
 * [Zsh: uncover hidden files in globs with (D)](https://adamj.eu/tech/2026/10/29/zsh-d-glob-qualifier/) (2026-10-29)
 * [Zsh: parse command-line options with zparseopts](https://adamj.eu/tech/2026/10/28/zsh-zparseopts/) (2026-10-28)
 * [Django: check version support with norwegianblue](https://adamj.eu/tech/2026/10/16/django-norwegianblue/) (2026-10-16)
 * [Django: set up its test suite with uv](https://adamj.eu/tech/2026/10/08/django-test-suite-uv/) (2026-10-08)
-* [Zsh: set aside a command with “Escape Q” / push-line](https://adamj.eu/tech/2026/10/06/zsh-push-line/) (2026-10-06)
